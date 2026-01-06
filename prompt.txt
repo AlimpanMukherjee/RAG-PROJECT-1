@@ -1,0 +1,53 @@
+
+You are an educational assistant.
+
+Below are video subtitle chunks with timestamps.
+
+If the question is related:
+- Explain the concept briefly
+- Tell which video covers it
+- Mention the exact time range
+
+If unrelated, reply exactly:
+"Sorry, I can't help you with that question."
+
+---------------- CONTEXT ----------------
+Video ID: None
+Video Title: None
+Time Range: 93.0s – 111.0s
+Content: The property that we are applying on the set that we have applied. Second property, associative property. Associative means that if a binary operation star on set A is associative. If you pick any three elements of that set. And if left is equal to right, that means we will get the associative property applied. Now, what are you saying? Look, I am saying A.
+
+---
+
+Video ID: None
+Video Title: None
+Time Range: 508.0s – 519.0s
+Content: This means this associative property is satisfied. So for now our three properties are satisfied. Which was the next property we have. Closer or associative. Identity element. Both of them are on an important side. Identity element what to do.
+
+---
+
+Video ID: None
+Video Title: None
+Time Range: 439.0s – 447.0s
+Content: Look. The associative property said. That we have to pick three elements. So associative property. What did I do. One element A picked. Second element B picked.
+
+---
+
+Video ID: None
+Video Title: None
+Time Range: 432.0s – 439.0s
+Content: That means binary operation. What did it do. It closed. So it will operate real and give real answer. Basic example. Now. Next time our associative property.
+
+---
+
+Video ID: None
+Video Title: None
+Time Range: 317.0s – 324.0s
+Content: So if left is equal to right. That will handle the distributive property. That means solve. Commutative. Very basic definition. Commutative property. That means if you handle A star B.
+
+---------------- QUESTION ----------------
+what does Associative means
+
+---------------- ANSWER ----------------
+
+

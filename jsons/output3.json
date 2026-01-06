@@ -1,0 +1,2249 @@
+[
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 0.0,
+    "end": 3.0,
+    "text": "What is the meaning of internal and external binary operation?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 3.0,
+    "end": 6.0,
+    "text": "It is very important to know about external and internal binary operations."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 6.0,
+    "end": 9.0,
+    "text": "If we want to study linear algebra, where the algebraic structure will be discussed,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 9.0,
+    "end": 11.0,
+    "text": "where there will be 2 sets and 1 set of operations,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 11.0,
+    "end": 14.0,
+    "text": "then it is very important to know about internal and external binary operations."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 14.0,
+    "end": 16.0,
+    "text": "So, welcome to Gate Smashers, without any delay, let's start."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 16.0,
+    "end": 19.0,
+    "text": "First of all, what is the meaning of internal binary operation?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 19.0,
+    "end": 22.0,
+    "text": "As the word is here, the definition of it is the same."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 22.0,
+    "end": 25.0,
+    "text": "Internal binary operation says that the operations that are inside,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 25.0,
+    "end": 28.0,
+    "text": "the actions that are inside with some binary operation,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 28.0,
+    "end": 30.0,
+    "text": "depend on the internal binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 30.0,
+    "end": 33.0,
+    "text": "It is called a binary operation, whose name is star,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 33.0,
+    "end": 35.0,
+    "text": "which is working on any set A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 35.0,
+    "end": 38.0,
+    "text": "The meaning of working on any set A is that your input is also A,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 38.0,
+    "end": 41.0,
+    "text": "the output is also A. The first element is taken from that set,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 41.0,
+    "end": 43.0,
+    "text": "the second element is also taken from that set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 43.0,
+    "end": 46.0,
+    "text": "The output that we have in the last set will also be taken from that set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 46.0,
+    "end": 48.0,
+    "text": "One set is taken, the other two elements are taken,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 48.0,
+    "end": 50.0,
+    "text": "the binary operation is done in both of them."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 50.0,
+    "end": 52.0,
+    "text": "Obviously, the same binary operation which is following the algebraic structure,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 52.0,
+    "end": 54.0,
+    "text": "the binary operation is applied in both of them,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 54.0,
+    "end": 57.0,
+    "text": "and the element of that set comes back. That is known as the internal binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 57.0,
+    "end": 59.0,
+    "text": "So, what does it say? There are two elements A and B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 59.0,
+    "end": 62.0,
+    "text": "The elements that belong to A set, if the star is applied in between them,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 62.0,
+    "end": 64.0,
+    "text": "the third element that is going to come back,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 64.0,
+    "end": 66.0,
+    "text": "that C element also belongs to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 66.0,
+    "end": 68.0,
+    "text": "It will also belong to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 68.0,
+    "end": 70.0,
+    "text": "This means the operation is closed within the set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 70.0,
+    "end": 72.0,
+    "text": "The output never leaves the set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 72.0,
+    "end": 74.0,
+    "text": "The output will never leave the set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 74.0,
+    "end": 76.0,
+    "text": "The best example, if we talk here,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 76.0,
+    "end": 80.0,
+    "text": "if I am calling Z as the algebraic structure with the help of plus,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 80.0,
+    "end": 82.0,
+    "text": "this is a complete algebraic structure."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 82.0,
+    "end": 84.0,
+    "text": "So, I will take any integer and add any integer from it."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 84.0,
+    "end": 86.0,
+    "text": "The answer will come to me,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 86.0,
+    "end": 88.0,
+    "text": "it will also exist within the integer."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 88.0,
+    "end": 90.0,
+    "text": "This means, this time for Z,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 90.0,
+    "end": 92.0,
+    "text": "this is our internal binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 92.0,
+    "end": 95.0,
+    "text": "The output of the set is also going to be of the same set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 95.0,
+    "end": 97.0,
+    "text": "Clear? I hope it is clear."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 97.0,
+    "end": 99.0,
+    "text": "If I tell you another example,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 99.0,
+    "end": 101.0,
+    "text": "there is one set A,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 101.0,
+    "end": 104.0,
+    "text": "in which all the vectors are represented in the world."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 104.0,
+    "end": 105.0,
+    "text": "Clear?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 105.0,
+    "end": 108.0,
+    "text": "And if I say A plus or minus,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 108.0,
+    "end": 110.0,
+    "text": "which is the algebraic structure I have,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 110.0,
+    "end": 111.0,
+    "text": "there is absolutely one."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 111.0,
+    "end": 113.0,
+    "text": "Because if I take any two vectors from A set,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 113.0,
+    "end": 115.0,
+    "text": "the first vector,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 115.0,
+    "end": 116.0,
+    "text": "which is called Z1,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 116.0,
+    "end": 117.0,
+    "text": "the second vector,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 117.0,
+    "end": 119.0,
+    "text": "which is called Z2,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 119.0,
+    "end": 121.0,
+    "text": "which is called Z1,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 121.0,
+    "end": 122.0,
+    "text": "the second vector,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 122.0,
+    "end": 123.0,
+    "text": "which is called Z2,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 123.0,
+    "end": 125.0,
+    "text": "as soon as both the vectors are added,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 125.0,
+    "end": 126.0,
+    "text": "the answer will come to me,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 126.0,
+    "end": 128.0,
+    "text": "it will also be a vector quantity."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 128.0,
+    "end": 129.0,
+    "text": "It cannot be like that,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 129.0,
+    "end": 130.0,
+    "text": "it will become a scalar quantity."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 130.0,
+    "end": 132.0,
+    "text": "This means, the operation that is being done,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 132.0,
+    "end": 133.0,
+    "text": "in that set,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 133.0,
+    "end": 134.0,
+    "text": "we will get two elements."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 134.0,
+    "end": 135.0,
+    "text": "We will get the same set element,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 135.0,
+    "end": 137.0,
+    "text": "that is internal binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 137.0,
+    "end": 138.0,
+    "text": "External binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 138.0,
+    "end": 139.0,
+    "text": "This becomes a little important"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 139.0,
+    "end": 140.0,
+    "text": "if you are moving like a linear algebra."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 140.0,
+    "end": 141.0,
+    "text": "External binary operation,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 141.0,
+    "end": 143.0,
+    "text": "as it is written in its name,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 143.0,
+    "end": 144.0,
+    "text": "if it is external binary operation,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 144.0,
+    "end": 145.0,
+    "text": "it will work somewhere else."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 145.0,
+    "end": 146.0,
+    "text": "How?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 146.0,
+    "end": 147.0,
+    "text": "It is called A and B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 147.0,
+    "end": 148.0,
+    "text": "There are two non-empty sets."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 148.0,
+    "end": 149.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 149.0,
+    "end": 151.0,
+    "text": "And one element has been raised from A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 151.0,
+    "end": 153.0,
+    "text": "The second element has been raised from B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 153.0,
+    "end": 155.0,
+    "text": "The answer has to be the same element."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 155.0,
+    "end": 156.0,
+    "text": "The first set has been raised from A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 156.0,
+    "end": 157.0,
+    "text": "The second set has been raised from A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 157.0,
+    "end": 159.0,
+    "text": "Both have been operated with some binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 159.0,
+    "end": 160.0,
+    "text": "The output of the answer,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 160.0,
+    "end": 161.0,
+    "text": "is the first set element."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 161.0,
+    "end": 162.0,
+    "text": "So that particular binary operation"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 162.0,
+    "end": 163.0,
+    "text": "is known as the external."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 163.0,
+    "end": 164.0,
+    "text": "We understand it better."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 164.0,
+    "end": 165.0,
+    "text": "So what is the external binary operation"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 165.0,
+    "end": 166.0,
+    "text": "that is being said?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 166.0,
+    "end": 167.0,
+    "text": "If one element is being raised from A,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 167.0,
+    "end": 168.0,
+    "text": "one element is being raised from B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 168.0,
+    "end": 170.0,
+    "text": "And the result of the result of binary operation,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 170.0,
+    "end": 172.0,
+    "text": "it comes back to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 172.0,
+    "end": 174.0,
+    "text": "So this means that it is following"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 174.0,
+    "end": 175.0,
+    "text": "the external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 175.0,
+    "end": 176.0,
+    "text": "This means the first input."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 176.0,
+    "end": 177.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 177.0,
+    "end": 178.0,
+    "text": "Comes from set A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 178.0,
+    "end": 179.0,
+    "text": "Obviously it is."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 179.0,
+    "end": 180.0,
+    "text": "And the second from set B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 180.0,
+    "end": 181.0,
+    "text": "Obviously it is."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 181.0,
+    "end": 183.0,
+    "text": "But the output always stays in the set A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 183.0,
+    "end": 184.0,
+    "text": "That is, the first set"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 184.0,
+    "end": 186.0,
+    "text": "will never leave its structure."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 186.0,
+    "end": 188.0,
+    "text": "That is known as the external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 188.0,
+    "end": 189.0,
+    "text": "If you want to see an example,"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 189.0,
+    "end": 190.0,
+    "text": "look at the example of our vector."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 190.0,
+    "end": 193.0,
+    "text": "Suppose A contains all the vectors."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 193.0,
+    "end": 194.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 194.0,
+    "end": 196.0,
+    "text": "A contains all the vectors."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 196.0,
+    "end": 198.0,
+    "text": "And B is the set"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 198.0,
+    "end": 200.0,
+    "text": "that contains all the constants."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 200.0,
+    "end": 201.0,
+    "text": "Sorry, sorry."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 201.0,
+    "end": 202.0,
+    "text": "It contains all the constants."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 202.0,
+    "end": 203.0,
+    "text": "Or the natural number."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 203.0,
+    "end": 204.0,
+    "text": "The whole number."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 204.0,
+    "end": 206.0,
+    "text": "If I raise one vector."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 206.0,
+    "end": 207.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 207.0,
+    "end": 208.0,
+    "text": "Raise one element from here."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 208.0,
+    "end": 210.0,
+    "text": "And I raise one element from the constant."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 210.0,
+    "end": 211.0,
+    "text": "That is, I raised one vector."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 211.0,
+    "end": 214.0,
+    "text": "2i cap plus 3j cap plus 7k cap."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 214.0,
+    "end": 216.0,
+    "text": "And I raised two from there."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 216.0,
+    "end": 217.0,
+    "text": "And I multiply these two."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 217.0,
+    "end": 219.0,
+    "text": "What is going to come back?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 219.0,
+    "end": 221.0,
+    "text": "What is going to come back?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 221.0,
+    "end": 223.0,
+    "text": "That will also be a vector"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 223.0,
+    "end": 224.0,
+    "text": "whose magnitude is going to double."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 224.0,
+    "end": 226.0,
+    "text": "That is, where did that set come back?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 226.0,
+    "end": 227.0,
+    "text": "It came between the vector."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 227.0,
+    "end": 228.0,
+    "text": "So this is known as the vector."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 228.0,
+    "end": 229.0,
+    "text": "Sorry, this is known as"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 229.0,
+    "end": 230.0,
+    "text": "the external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 230.0,
+    "end": 231.0,
+    "text": "Do you know the basic example?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 231.0,
+    "end": 232.0,
+    "text": "Look, it is obvious."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 232.0,
+    "end": 234.0,
+    "text": "I have A1 set of 10 liquids."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 234.0,
+    "end": 235.0,
+    "text": "I raised one liquid."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 235.0,
+    "end": 236.0,
+    "text": "I raised another liquid."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 236.0,
+    "end": 237.0,
+    "text": "I mixed both the liquids."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 237.0,
+    "end": 238.0,
+    "text": "The answer will come at the end."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 238.0,
+    "end": 239.0,
+    "text": "The liquidity will come."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 239.0,
+    "end": 241.0,
+    "text": "That means there are 4-5 colors in the water."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 241.0,
+    "end": 242.0,
+    "text": "And one set is shown that"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 242.0,
+    "end": 243.0,
+    "text": "all the water colors exist."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 243.0,
+    "end": 245.0,
+    "text": "So I will take any two colors."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 245.0,
+    "end": 246.0,
+    "text": "Mix both the colors."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 246.0,
+    "end": 247.0,
+    "text": "A third color will be present."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 247.0,
+    "end": 248.0,
+    "text": "Which exists in the world."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 248.0,
+    "end": 249.0,
+    "text": "So it will be from the A set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 249.0,
+    "end": 250.0,
+    "text": "Where all the colors of the world are obvious."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 250.0,
+    "end": 251.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 251.0,
+    "end": 252.0,
+    "text": "If I look at this example."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 252.0,
+    "end": 253.0,
+    "text": "How can you understand this in real life?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 253.0,
+    "end": 255.0,
+    "text": "I know what time is equal to."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 255.0,
+    "end": 256.0,
+    "text": "Distance is by speed."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 256.0,
+    "end": 257.0,
+    "text": "So I will tell you one thing."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 257.0,
+    "end": 260.0,
+    "text": "If I have one set in which there is time."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 260.0,
+    "end": 261.0,
+    "text": "Means all the times are read."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 261.0,
+    "end": 262.0,
+    "text": "All the time quantity is read."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 262.0,
+    "end": 264.0,
+    "text": "And one set in which all the speeds are read."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 264.0,
+    "end": 265.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 265.0,
+    "end": 267.0,
+    "text": "If I picked an element from one time."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 267.0,
+    "end": 268.0,
+    "text": "I picked an element from a speed."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 268.0,
+    "end": 269.0,
+    "text": "I multiplied both."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 269.0,
+    "end": 271.0,
+    "text": "The answer will come to me."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 271.0,
+    "end": 272.0,
+    "text": "Distance."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 272.0,
+    "end": 273.0,
+    "text": "And this operation here."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 273.0,
+    "end": 274.0,
+    "text": "Look carefully."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 274.0,
+    "end": 275.0,
+    "text": "It is going in a third set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 275.0,
+    "end": 276.0,
+    "text": "Neither it is an internal binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 276.0,
+    "end": 277.0,
+    "text": "Neither it is an external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 277.0,
+    "end": 279.0,
+    "text": "It is applying its own external operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 279.0,
+    "end": 280.0,
+    "text": "Where the output of the third set is coming."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 280.0,
+    "end": 281.0,
+    "text": "The first set in which there is time."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 281.0,
+    "end": 282.0,
+    "text": "There is a different quantity."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 282.0,
+    "end": 283.0,
+    "text": "The second set in which the speed is different."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 283.0,
+    "end": 284.0,
+    "text": "The second set is a meter per second."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 284.0,
+    "end": 285.0,
+    "text": "Right?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 285.0,
+    "end": 286.0,
+    "text": "Kilometer per hour."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 286.0,
+    "end": 287.0,
+    "text": "So the third set is giving the output of distance."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 287.0,
+    "end": 288.0,
+    "text": "Which is kilometer or centimeter."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 288.0,
+    "end": 289.0,
+    "text": "In which the answer will be given."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 289.0,
+    "end": 290.0,
+    "text": "So this is also external."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 290.0,
+    "end": 291.0,
+    "text": "But it is working on its own operations."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 291.0,
+    "end": 292.0,
+    "text": "This is non-end."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 292.0,
+    "end": 293.0,
+    "text": "Not as an external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 293.0,
+    "end": 294.0,
+    "text": "I hope you are clear."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 294.0,
+    "end": 295.0,
+    "text": "It will be possible."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 295.0,
+    "end": 296.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 296.0,
+    "end": 298.0,
+    "text": "So now let's see a little overview."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 298.0,
+    "end": 299.0,
+    "text": "What is actually happening?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 299.0,
+    "end": 301.0,
+    "text": "Look, it is more important than internal binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 301.0,
+    "end": 302.0,
+    "text": "Your external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 302.0,
+    "end": 304.0,
+    "text": "Because we are talking about linear algebra here."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 304.0,
+    "end": 306.0,
+    "text": "If I say the first step of linear algebra."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 306.0,
+    "end": 308.0,
+    "text": "I read algebra in three parts."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 308.0,
+    "end": 310.0,
+    "text": "In the first algebra, I say basic algebra."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 310.0,
+    "end": 311.0,
+    "text": "In which the eigenvector and eigenvalues are added."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 311.0,
+    "end": 312.0,
+    "text": "Your characteristic polynomial is added."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 312.0,
+    "end": 313.0,
+    "text": "All this data is here."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 313.0,
+    "end": 314.0,
+    "text": "Then the second algebra comes."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 314.0,
+    "end": 315.0,
+    "text": "Group theory."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 315.0,
+    "end": 317.0,
+    "text": "In which the group rings and fields are discussed."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 317.0,
+    "end": 318.0,
+    "text": "The third algebra comes."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 318.0,
+    "end": 319.0,
+    "text": "Linear algebra."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 319.0,
+    "end": 320.0,
+    "text": "Okay?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 320.0,
+    "end": 321.0,
+    "text": "Now, if you read it in the same way."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 321.0,
+    "end": 322.0,
+    "text": "If you continue the playlist in the same way."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 322.0,
+    "end": 323.0,
+    "text": "Then you will understand the linear algebra very well."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 323.0,
+    "end": 324.0,
+    "text": "I will tell you very frankly."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 324.0,
+    "end": 325.0,
+    "text": "This playlist is going to be very long."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 325.0,
+    "end": 327.0,
+    "text": "But we will pick one topic with great love."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 327.0,
+    "end": 329.0,
+    "text": "And we will take the connections from this video."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 329.0,
+    "end": 330.0,
+    "text": "This connection is being made."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 330.0,
+    "end": 332.0,
+    "text": "Now, there is a difference between the two."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 332.0,
+    "end": 334.0,
+    "text": "He says internal binary operation is working on same set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 334.0,
+    "end": 336.0,
+    "text": "External binary operation works on two sets."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 336.0,
+    "end": 337.0,
+    "text": "Obviously."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 337.0,
+    "end": 338.0,
+    "text": "The second point."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 338.0,
+    "end": 339.0,
+    "text": "This is going from A to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 339.0,
+    "end": 340.0,
+    "text": "And the output is leaving it in A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 340.0,
+    "end": 341.0,
+    "text": "It is leaving it from A to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 341.0,
+    "end": 342.0,
+    "text": "It is leaving it from A to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 342.0,
+    "end": 344.0,
+    "text": "But the output is leaving it in the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 344.0,
+    "end": 345.0,
+    "text": "Third point."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 345.0,
+    "end": 346.0,
+    "text": "Where is the input going from A to A?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 346.0,
+    "end": 347.0,
+    "text": "Where is the input going from A to A?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 347.0,
+    "end": 348.0,
+    "text": "From both."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 348.0,
+    "end": 349.0,
+    "text": "Fourth point."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 349.0,
+    "end": 350.0,
+    "text": "The output is leaving it in A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 350.0,
+    "end": 351.0,
+    "text": "Closer only in A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 351.0,
+    "end": 352.0,
+    "text": "This is a very nice point."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 352.0,
+    "end": 353.0,
+    "text": "It can be a very simple point."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 353.0,
+    "end": 355.0,
+    "text": "Many students have doubts here."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 355.0,
+    "end": 356.0,
+    "text": "Sir, you have said one thing."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 356.0,
+    "end": 357.0,
+    "text": "One element has been raised from A to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 357.0,
+    "end": 359.0,
+    "text": "One element has been raised from B to A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 359.0,
+    "end": 361.0,
+    "text": "And it has been operated."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 361.0,
+    "end": 363.0,
+    "text": "After operating it, a third element has been raised."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 363.0,
+    "end": 365.0,
+    "text": "It has been understood that if it comes in the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 365.0,
+    "end": 366.0,
+    "text": "Then it is external."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 366.0,
+    "end": 368.0,
+    "text": "But sir, the operation that has been applied."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 368.0,
+    "end": 370.0,
+    "text": "Which is the operation of the algebraic structure?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 370.0,
+    "end": 372.0,
+    "text": "Is it this one or this one?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 372.0,
+    "end": 373.0,
+    "text": "It is the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 373.0,
+    "end": 375.0,
+    "text": "When it is not leaving its closer property."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 375.0,
+    "end": 376.0,
+    "text": "It is coming back in the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 376.0,
+    "end": 377.0,
+    "text": "Look, it is going to think with great love."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 377.0,
+    "end": 380.0,
+    "text": "If I am saying that the output is coming in the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 380.0,
+    "end": 381.0,
+    "text": "Then the first algebraic structure."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 381.0,
+    "end": 383.0,
+    "text": "If an element is coming in it."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 383.0,
+    "end": 384.0,
+    "text": "Then you will be able to come."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 384.0,
+    "end": 386.0,
+    "text": "When it is satisfying its binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 386.0,
+    "end": 388.0,
+    "text": "This means that this binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 388.0,
+    "end": 390.0,
+    "text": "This binary operation is also the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 390.0,
+    "end": 392.0,
+    "text": "Only one element of B set is being helped."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 392.0,
+    "end": 393.0,
+    "text": "That is why we call it."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 393.0,
+    "end": 394.0,
+    "text": "If I say this."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 394.0,
+    "end": 395.0,
+    "text": "Then it is called."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 395.0,
+    "end": 398.0,
+    "text": "External binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 398.0,
+    "end": 399.0,
+    "text": "Okay."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 399.0,
+    "end": 401.0,
+    "text": "On set A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 401.0,
+    "end": 402.0,
+    "text": "Over B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 402.0,
+    "end": 403.0,
+    "text": "Do you understand?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 403.0,
+    "end": 404.0,
+    "text": "What it is called?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 404.0,
+    "end": 405.0,
+    "text": "External binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 405.0,
+    "end": 406.0,
+    "text": "For whom?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 406.0,
+    "end": 407.0,
+    "text": "For A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 407.0,
+    "end": 408.0,
+    "text": "Over B."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 408.0,
+    "end": 409.0,
+    "text": "Which means the help is being given."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 409.0,
+    "end": 410.0,
+    "text": "Clear?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 410.0,
+    "end": 411.0,
+    "text": "Now, fifth point."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 411.0,
+    "end": 412.0,
+    "text": "It is called operation defined by A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 412.0,
+    "end": 413.0,
+    "text": "The operation is taken by A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 413.0,
+    "end": 415.0,
+    "text": "Because two elements of A are coming."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 415.0,
+    "end": 417.0,
+    "text": "The operation is always taken by A."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 417.0,
+    "end": 418.0,
+    "text": "So these two are very big points."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 418.0,
+    "end": 419.0,
+    "text": "Many students are wrong."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 419.0,
+    "end": 420.0,
+    "text": "Many students are wrong."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 420.0,
+    "end": 422.0,
+    "text": "One is a writer's book."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 422.0,
+    "end": 423.0,
+    "text": "I don't remember the exact name."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 423.0,
+    "end": 424.0,
+    "text": "It is written there."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 424.0,
+    "end": 425.0,
+    "text": "Second which means the binary operation in between."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 425.0,
+    "end": 426.0,
+    "text": "Take it from the other set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 426.0,
+    "end": 427.0,
+    "text": "It is not like that."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 427.0,
+    "end": 428.0,
+    "text": "It is working on the first set."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 428.0,
+    "end": 429.0,
+    "text": "Because it is following the closer property."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 429.0,
+    "end": 430.0,
+    "text": "Okay."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 430.0,
+    "end": 431.0,
+    "text": "Now sixth."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 431.0,
+    "end": 432.0,
+    "text": "Internal interaction is happening."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 432.0,
+    "end": 433.0,
+    "text": "It is obvious."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 433.0,
+    "end": 434.0,
+    "text": "External interaction is happening."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 434.0,
+    "end": 435.0,
+    "text": "Because the element is being taken from outside."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 435.0,
+    "end": 436.0,
+    "text": "There is no outer element allowed."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 436.0,
+    "end": 437.0,
+    "text": "It is obvious."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 437.0,
+    "end": 438.0,
+    "text": "There is no outer element allowed."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 438.0,
+    "end": 439.0,
+    "text": "Give an example."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 439.0,
+    "end": 440.0,
+    "text": "If you are doing plus or minus."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 440.0,
+    "end": 441.0,
+    "text": "Any integer or real."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 441.0,
+    "end": 442.0,
+    "text": "It is obvious."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 442.0,
+    "end": 443.0,
+    "text": "It is real."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 443.0,
+    "end": 444.0,
+    "text": "A scalar quantity and a vector quantity multiply."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 444.0,
+    "end": 445.0,
+    "text": "It comes back."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 445.0,
+    "end": 446.0,
+    "text": "A vector quantity comes back."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 446.0,
+    "end": 449.0,
+    "text": "It is mostly used in internal groups and rings."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 449.0,
+    "end": 450.0,
+    "text": "In group ring and field."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 450.0,
+    "end": 453.0,
+    "text": "And it is mostly used in vector space and modules."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 453.0,
+    "end": 454.0,
+    "text": "What does it mean?"
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 454.0,
+    "end": 455.0,
+    "text": "Where we are going to read the vector space."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 455.0,
+    "end": 456.0,
+    "text": "Where the field is going to be used."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 456.0,
+    "end": 457.0,
+    "text": "So there will be some attachment."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 457.0,
+    "end": 458.0,
+    "text": "Your external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 458.0,
+    "end": 459.0,
+    "text": "Where we are going to work."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 459.0,
+    "end": 460.0,
+    "text": "In the entire vector space."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 460.0,
+    "end": 461.0,
+    "text": "So this is the overall difference."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 461.0,
+    "end": 463.0,
+    "text": "In terms of internal binary operation and external binary operation."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 463.0,
+    "end": 465.0,
+    "text": "I hope you have learned a lot of things."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 465.0,
+    "end": 466.0,
+    "text": "We will meet in the next video."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 466.0,
+    "end": 467.0,
+    "text": "We will learn something new."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 467.0,
+    "end": 468.0,
+    "text": "Have a good day."
+  },
+  {
+    "video_id": 3,
+    "video_title": "3 internalExternalBinaryOperations",
+    "start": 468.0,
+    "end": 469.0,
+    "text": "Bye."
+  }
+]

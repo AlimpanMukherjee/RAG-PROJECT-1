@@ -1,0 +1,2970 @@
+[
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 0.0,
+    "end": 10.0,
+    "text": "If you are preparing for any higher education, then the most famous book is Liner Alzebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 10.0,
+    "end": 19.0,
+    "text": "So in this whole playlist, we are going to upload videos of all those topics, whether it is basic definition or deep concept."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 19.0,
+    "end": 23.0,
+    "text": "If we follow everything, then this playlist will be very helpful for you."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 23.0,
+    "end": 32.0,
+    "text": "As we are going to do all the matches with your higher engineering and higher education, then we are going to cover all the playlists here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 32.0,
+    "end": 34.0,
+    "text": "So we are starting with Liner Alzebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 34.0,
+    "end": 39.0,
+    "text": "So in today's video, we are going to mainly discuss what is the meaning of binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 39.0,
+    "end": 42.0,
+    "text": "So welcome all of you to your platform Gate Smashers."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 42.0,
+    "end": 43.0,
+    "text": "My name is Ankit Rodha."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 43.0,
+    "end": 45.0,
+    "text": "Let's start without any delay."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 45.0,
+    "end": 52.0,
+    "text": "The first thing is that before starting Liner Alzebra, there are a lot of topics that you should know about."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 52.0,
+    "end": 60.0,
+    "text": "If I start Liner Alzebra, then I should know about group theory, ring theory, composition table, KLA theorem."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 60.0,
+    "end": 63.0,
+    "text": "We should know all these things in detail."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 63.0,
+    "end": 67.0,
+    "text": "Then it becomes a back output that we can start our Liner Alzebra very lovingly."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 67.0,
+    "end": 68.0,
+    "text": "So let's start."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 68.0,
+    "end": 71.0,
+    "text": "In the two or three lectures of the starting, you will get to see the basic concept."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 71.0,
+    "end": 74.0,
+    "text": "As you are starting Liner Alzebra, then it will be very helpful for you."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 74.0,
+    "end": 75.0,
+    "text": "So let's start."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 75.0,
+    "end": 76.0,
+    "text": "The first definition is going to be here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 76.0,
+    "end": 78.0,
+    "text": "What is the meaning of binary operation?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 78.0,
+    "end": 79.0,
+    "text": "So what is the meaning of binary operation?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 79.0,
+    "end": 83.0,
+    "text": "As we discuss operations in the maths, who do we call operations?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 83.0,
+    "end": 84.0,
+    "text": "Who do we call mathematical operations?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 84.0,
+    "end": 88.0,
+    "text": "What we do is that whenever two elements are operated, we mostly use these operations."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 88.0,
+    "end": 89.0,
+    "text": "Multiply, division, plus and minus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 89.0,
+    "end": 92.0,
+    "text": "So the same way binary operation is also an operation that works on a set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 92.0,
+    "end": 93.0,
+    "text": "Do you understand?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 93.0,
+    "end": 94.0,
+    "text": "These numbers work on where?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 94.0,
+    "end": 96.0,
+    "text": "These numbers, these operations work on where?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 96.0,
+    "end": 97.0,
+    "text": "On our numbers."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 97.0,
+    "end": 98.0,
+    "text": "Whether it is the natural number of integers and all."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 98.0,
+    "end": 100.0,
+    "text": "So where does this binary operation work?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 100.0,
+    "end": 102.0,
+    "text": "It will work on a set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 102.0,
+    "end": 103.0,
+    "text": "And how does it work?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 103.0,
+    "end": 104.0,
+    "text": "Let's see in detail."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 104.0,
+    "end": 106.0,
+    "text": "So what is the definition of binary operation?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 106.0,
+    "end": 109.0,
+    "text": "It says binary operation on a set A is a function."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 109.0,
+    "end": 112.0,
+    "text": "That binary operation is defined in this way."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 112.0,
+    "end": 116.0,
+    "text": "The meaning of this is that if you have set A and the other is set A,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 116.0,
+    "end": 117.0,
+    "text": "that means we work on it."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 117.0,
+    "end": 119.0,
+    "text": "The input is also our same set and the output is also our same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 119.0,
+    "end": 121.0,
+    "text": "So if I pick one element from the same set,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 121.0,
+    "end": 123.0,
+    "text": "I pick the other element from the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 123.0,
+    "end": 126.0,
+    "text": "And if I operate both of them, and whatever answer comes to me,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 126.0,
+    "end": 127.0,
+    "text": "whatever answer comes to me,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 127.0,
+    "end": 129.0,
+    "text": "that is the same element of that set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 129.0,
+    "end": 132.0,
+    "text": "That means through this operation, if you operate both of them,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 132.0,
+    "end": 134.0,
+    "text": "that particular operation is known as the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 134.0,
+    "end": 135.0,
+    "text": "For example, let's understand."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 135.0,
+    "end": 137.0,
+    "text": "It says that assigned to every ordered pair,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 137.0,
+    "end": 139.0,
+    "text": "in each ordered pair, in A cross A,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 139.0,
+    "end": 140.0,
+    "text": "that means A is the element picked from A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 140.0,
+    "end": 142.0,
+    "text": "In A, that means the output is seen."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 142.0,
+    "end": 143.0,
+    "text": "That means the input is also our same."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 143.0,
+    "end": 144.0,
+    "text": "The output is also our same."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 144.0,
+    "end": 145.0,
+    "text": "The first element of the ordered pair is A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 145.0,
+    "end": 146.0,
+    "text": "The second element is also A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 146.0,
+    "end": 147.0,
+    "text": "Both of them are being operated."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 147.0,
+    "end": 150.0,
+    "text": "And the binary operation is shown here by star."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 150.0,
+    "end": 151.0,
+    "text": "That means A star B in A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 151.0,
+    "end": 154.0,
+    "text": "When star operation comes, the answer will also be A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 154.0,
+    "end": 156.0,
+    "text": "For example, as we understand,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 156.0,
+    "end": 158.0,
+    "text": "this means the operation combines any two elements,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 158.0,
+    "end": 159.0,
+    "text": "pick any two elements,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 159.0,
+    "end": 162.0,
+    "text": "one set C of the set and produce output"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 162.0,
+    "end": 164.0,
+    "text": "that also belongs to the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 164.0,
+    "end": 165.0,
+    "text": "Do you understand?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 165.0,
+    "end": 166.0,
+    "text": "Now let's discuss an example."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 166.0,
+    "end": 167.0,
+    "text": "You will be able to understand it more clearly."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 167.0,
+    "end": 170.0,
+    "text": "Listen, I said that our set is an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 170.0,
+    "end": 172.0,
+    "text": "That means I am talking about all integers here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 172.0,
+    "end": 173.0,
+    "text": "And what did I do?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 173.0,
+    "end": 175.0,
+    "text": "I fixed a binary operation here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 175.0,
+    "end": 176.0,
+    "text": "That is plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 176.0,
+    "end": 178.0,
+    "text": "I am talking about simple ordinary plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 178.0,
+    "end": 179.0,
+    "text": "I am talking about addition."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 179.0,
+    "end": 180.0,
+    "text": "Let me tell you something."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 180.0,
+    "end": 182.0,
+    "text": "When I pick one element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 182.0,
+    "end": 184.0,
+    "text": "which belongs to Z,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 184.0,
+    "end": 185.0,
+    "text": "then I pick the second element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 185.0,
+    "end": 186.0,
+    "text": "which belongs to Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 186.0,
+    "end": 188.0,
+    "text": "And if I add addition to both of them,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 188.0,
+    "end": 190.0,
+    "text": "which will be the third element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 190.0,
+    "end": 192.0,
+    "text": "obviously that will also belong to Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 192.0,
+    "end": 193.0,
+    "text": "I mean if I pick one element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 193.0,
+    "end": 194.0,
+    "text": "that is my integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 194.0,
+    "end": 195.0,
+    "text": "Then I pick the second element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 195.0,
+    "end": 196.0,
+    "text": "that is also my integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 196.0,
+    "end": 197.0,
+    "text": "When I add an integer in an integer,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 197.0,
+    "end": 198.0,
+    "text": "what will happen to the answer?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 198.0,
+    "end": 199.0,
+    "text": "It will be an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 199.0,
+    "end": 200.0,
+    "text": "This means one thing has been clarified here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 200.0,
+    "end": 202.0,
+    "text": "That the plus,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 202.0,
+    "end": 206.0,
+    "text": "we can count the plus as a binary operation on Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 206.0,
+    "end": 209.0,
+    "text": "Means ordinary addition is a binary operation on Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 209.0,
+    "end": 210.0,
+    "text": "I mean on the entire Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 210.0,
+    "end": 212.0,
+    "text": "I mean on the entire integer's spectre,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 212.0,
+    "end": 214.0,
+    "text": "that plus sign is working as a binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 214.0,
+    "end": 215.0,
+    "text": "Now it's not like that."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 215.0,
+    "end": 216.0,
+    "text": "We are talking only about the plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 216.0,
+    "end": 218.0,
+    "text": "You can apply any binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 218.0,
+    "end": 220.0,
+    "text": "As I said,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 220.0,
+    "end": 222.0,
+    "text": "I will talk here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 222.0,
+    "end": 223.0,
+    "text": "Let's talk about Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 223.0,
+    "end": 224.0,
+    "text": "Then we will do something else,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 224.0,
+    "end": 225.0,
+    "text": "which is not a binary operation count."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 225.0,
+    "end": 226.0,
+    "text": "See, we are talking about Z."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 226.0,
+    "end": 227.0,
+    "text": "And I am saying,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 227.0,
+    "end": 229.0,
+    "text": "if we are applying a binary operation on Z,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 229.0,
+    "end": 231.0,
+    "text": "like A star B."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 231.0,
+    "end": 233.0,
+    "text": "Whose notation is showing here?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 233.0,
+    "end": 234.0,
+    "text": "The notation of binary operation is showing."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 234.0,
+    "end": 235.0,
+    "text": "How can you show binary operation?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 235.0,
+    "end": 236.0,
+    "text": "It doesn't matter."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 236.0,
+    "end": 238.0,
+    "text": "We are talking about simple ordinary plus,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 238.0,
+    "end": 239.0,
+    "text": "talking about minus,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 239.0,
+    "end": 240.0,
+    "text": "multiplying, dividing."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 240.0,
+    "end": 241.0,
+    "text": "I am showing it from star."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 241.0,
+    "end": 242.0,
+    "text": "From small dot."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 242.0,
+    "end": 244.0,
+    "text": "It can be shown to binary operation in any way."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 244.0,
+    "end": 245.0,
+    "text": "I said A star B."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 245.0,
+    "end": 247.0,
+    "text": "We will always operate like this."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 247.0,
+    "end": 248.0,
+    "text": "When these two are added,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 248.0,
+    "end": 250.0,
+    "text": "then we will also add two."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 250.0,
+    "end": 251.0,
+    "text": "We have customized it."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 251.0,
+    "end": 253.0,
+    "text": "You can say that it is a binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 253.0,
+    "end": 254.0,
+    "text": "It is a customized operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 254.0,
+    "end": 255.0,
+    "text": "It should satisfy the condition"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 255.0,
+    "end": 256.0,
+    "text": "of the math operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 256.0,
+    "end": 257.0,
+    "text": "It should satisfy the condition."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 257.0,
+    "end": 258.0,
+    "text": "It should come back in the same set"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 258.0,
+    "end": 259.0,
+    "text": "that you are applying operation in."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 259.0,
+    "end": 260.0,
+    "text": "In between the two elements."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 260.0,
+    "end": 262.0,
+    "text": "Now, see the simple logic."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 262.0,
+    "end": 263.0,
+    "text": "If I take any element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 263.0,
+    "end": 264.0,
+    "text": "which is an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 264.0,
+    "end": 265.0,
+    "text": "Then I take another element,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 265.0,
+    "end": 266.0,
+    "text": "which is an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 266.0,
+    "end": 267.0,
+    "text": "When I apply star operation,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 267.0,
+    "end": 268.0,
+    "text": "which is a binary operation,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 268.0,
+    "end": 269.0,
+    "text": "then what does it say?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 269.0,
+    "end": 270.0,
+    "text": "Add those two elements"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 270.0,
+    "end": 271.0,
+    "text": "and add them again."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 271.0,
+    "end": 272.0,
+    "text": "Add two again."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 272.0,
+    "end": 273.0,
+    "text": "So let me tell you the simple answer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 273.0,
+    "end": 274.0,
+    "text": "When these three things are going to be added."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 274.0,
+    "end": 275.0,
+    "text": "Three, two, five, four, seven."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 275.0,
+    "end": 277.0,
+    "text": "Is seven again"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 277.0,
+    "end": 279.0,
+    "text": "belonging in the ZK?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 279.0,
+    "end": 280.0,
+    "text": "Yes, it is."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 280.0,
+    "end": 281.0,
+    "text": "So the two elements,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 281.0,
+    "end": 282.0,
+    "text": "which were in the same set,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 282.0,
+    "end": 284.0,
+    "text": "were operated with some operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 284.0,
+    "end": 285.0,
+    "text": "The third element was also"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 285.0,
+    "end": 286.0,
+    "text": "belonging in the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 286.0,
+    "end": 287.0,
+    "text": "So that particular operation"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 287.0,
+    "end": 288.0,
+    "text": "is known as the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 288.0,
+    "end": 289.0,
+    "text": "I hope it will be clear to you."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 289.0,
+    "end": 290.0,
+    "text": "Now, this definition is our mean."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 290.0,
+    "end": 291.0,
+    "text": "It means that two elements"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 291.0,
+    "end": 292.0,
+    "text": "were taken from the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 292.0,
+    "end": 293.0,
+    "text": "They were operated."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 293.0,
+    "end": 294.0,
+    "text": "All the outputs came"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 294.0,
+    "end": 295.0,
+    "text": "back in the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 295.0,
+    "end": 296.0,
+    "text": "Now, what is the example"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 296.0,
+    "end": 298.0,
+    "text": "which is not working like the binary operation?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 298.0,
+    "end": 299.0,
+    "text": "There are many examples."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 299.0,
+    "end": 300.0,
+    "text": "You can choose any."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 300.0,
+    "end": 301.0,
+    "text": "Like this."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 301.0,
+    "end": 303.0,
+    "text": "If I see a line here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 304.0,
+    "end": 307.0,
+    "text": "Plus is binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 307.0,
+    "end": 308.0,
+    "text": "Okay."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 308.0,
+    "end": 309.0,
+    "text": "Plus is binary operation"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 309.0,
+    "end": 312.0,
+    "text": "on capital N."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 312.0,
+    "end": 313.0,
+    "text": "When I add all the natural numbers"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 313.0,
+    "end": 314.0,
+    "text": "in the same set,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 314.0,
+    "end": 316.0,
+    "text": "then what is the plus of it?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 320.0,
+    "end": 321.0,
+    "text": "If I add the natural number,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 321.0,
+    "end": 322.0,
+    "text": "then what does it become?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 322.0,
+    "end": 323.0,
+    "text": "It becomes natural."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 323.0,
+    "end": 324.0,
+    "text": "Okay."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 324.0,
+    "end": 325.0,
+    "text": "Minus is binary operation on natural."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 325.0,
+    "end": 326.0,
+    "text": "Will it work"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 326.0,
+    "end": 327.0,
+    "text": "like the binary operation"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 327.0,
+    "end": 328.0,
+    "text": "on every natural number?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 328.0,
+    "end": 329.0,
+    "text": "No."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 329.0,
+    "end": 330.0,
+    "text": "How?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 330.0,
+    "end": 331.0,
+    "text": "Suppose I took one element."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 331.0,
+    "end": 332.0,
+    "text": "I took the other element."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 332.0,
+    "end": 333.0,
+    "text": "It is natural."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 333.0,
+    "end": 334.0,
+    "text": "As soon as I minus these two"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 334.0,
+    "end": 335.0,
+    "text": "the answer has become minus 1."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 335.0,
+    "end": 336.0,
+    "text": "Does it belong to the natural"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 336.0,
+    "end": 337.0,
+    "text": "or not?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 337.0,
+    "end": 338.0,
+    "text": "This means"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 338.0,
+    "end": 339.0,
+    "text": "that minus isn't working"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 339.0,
+    "end": 340.0,
+    "text": "like the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 340.0,
+    "end": 341.0,
+    "text": "Ordinary subtraction."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 341.0,
+    "end": 342.0,
+    "text": "It isn't working like the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 342.0,
+    "end": 343.0,
+    "text": "Where?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 343.0,
+    "end": 344.0,
+    "text": "On the natural number."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 344.0,
+    "end": 345.0,
+    "text": "This is known as"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 345.0,
+    "end": 346.0,
+    "text": "the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 346.0,
+    "end": 347.0,
+    "text": "I hope you have cleared it."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 347.0,
+    "end": 348.0,
+    "text": "I will take all these things"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 348.0,
+    "end": 349.0,
+    "text": "in touch."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 349.0,
+    "end": 350.0,
+    "text": "As soon as the 4-5 lecture"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 350.0,
+    "end": 351.0,
+    "text": "is over,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 351.0,
+    "end": 352.0,
+    "text": "then all these things will be"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 352.0,
+    "end": 353.0,
+    "text": "useful."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 353.0,
+    "end": 354.0,
+    "text": "So, the topic we are"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 354.0,
+    "end": 355.0,
+    "text": "discussing is going to be useful."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 355.0,
+    "end": 356.0,
+    "text": "After this,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 356.0,
+    "end": 357.0,
+    "text": "a word is used."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 357.0,
+    "end": 358.0,
+    "text": "That is, tailed table."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 358.0,
+    "end": 359.0,
+    "text": "Look, what is tailed table?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 359.0,
+    "end": 360.0,
+    "text": "This is a table"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 360.0,
+    "end": 361.0,
+    "text": "that is going on"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 361.0,
+    "end": 378.0,
+    "text": "but the composition word is used mostly where the two functions are operated with some binary operation where two sets of elements are operated, there is no big difference in this."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 378.0,
+    "end": 379.0,
+    "text": "Now, what does that mean?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 379.0,
+    "end": 386.0,
+    "text": "What does that mean? A Kerle table is a structured table that shows every pair of elements in a set combined under a binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 386.0,
+    "end": 394.0,
+    "text": "That means when you are taking two elements from a set, whatever binary operation you are putting between them and whatever output you are giving them, it works very simply to represent the Kerle table."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 394.0,
+    "end": 398.0,
+    "text": "For example, this is an A1 set that is showing an element from A1 to An."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 398.0,
+    "end": 403.0,
+    "text": "If we are putting a star binary operation on it, then the Kerle table will be shown in n cross n grid."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 403.0,
+    "end": 406.0,
+    "text": "Where A, which is representing the row, is the element of A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 406.0,
+    "end": 408.0,
+    "text": "The first element is showing the columns."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 408.0,
+    "end": 410.0,
+    "text": "The second element is obviously working on the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 410.0,
+    "end": 417.0,
+    "text": "And every cell is representing that row A i and column A j contain this when the element is also using the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 417.0,
+    "end": 418.0,
+    "text": "Let me give you an example."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 418.0,
+    "end": 420.0,
+    "text": "You will be able to see it clearly."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 420.0,
+    "end": 422.0,
+    "text": "Suppose we are taking a set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 422.0,
+    "end": 425.0,
+    "text": "I took a set A and put any four elements in that set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 425.0,
+    "end": 428.0,
+    "text": "One minus one, Iota and minus Iota."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 428.0,
+    "end": 432.0,
+    "text": "I am working on these four elements and I am saying that I have to work under multiplication."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 432.0,
+    "end": 434.0,
+    "text": "So how will the Kerle table be drawn?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 434.0,
+    "end": 437.0,
+    "text": "First, one minus one, Iota and minus Iota."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 437.0,
+    "end": 439.0,
+    "text": "The row is showing the first set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 439.0,
+    "end": 441.0,
+    "text": "The column is setting the second set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 441.0,
+    "end": 443.0,
+    "text": "So that is one minus one, Iota and minus Iota."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 443.0,
+    "end": 445.0,
+    "text": "And what operation am I working on?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 445.0,
+    "end": 446.0,
+    "text": "What operation am I working on?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 446.0,
+    "end": 449.0,
+    "text": "I am going to proceed under simple multiplication."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 449.0,
+    "end": 452.0,
+    "text": "Now this table will be called as this complete table is known as the Kerle table."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 452.0,
+    "end": 457.0,
+    "text": "And when you operate this table for two functions, then we call this table as composition table."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 457.0,
+    "end": 459.0,
+    "text": "Where two functions are being composed."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 460.0,
+    "end": 462.0,
+    "text": "Let me talk about the问题,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 462.0,
+    "end": 465.0,
+    "text": "If I multiply one with one, then how much will the answer be?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 465.0,
+    "end": 467.0,
+    "text": "1 with a formerly multiplied minus one is minus one."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 467.0,
+    "end": 469.0,
+    "text": "1 into Ita is Ita."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 469.0,
+    "end": 470.0,
+    "text": "So all the numbers are going to go back, right?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 470.0,
+    "end": 472.0,
+    "text": "Minus one into minus one is minus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 472.0,
+    "end": 474.0,
+    "text": "Minus one into minus one is minus one is plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 474.0,
+    "end": 476.0,
+    "text": "Ita into minus one is minus Ita."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 476.0,
+    "end": 477.0,
+    "text": "And minus one into minus Ita is plus Ita."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 477.0,
+    "end": 479.0,
+    "text": "Ita into one Ita."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 479.0,
+    "end": 480.0,
+    "text": "Ita into minus one is minus Ita."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 480.0,
+    "end": 482.0,
+    "text": "Ita into Ita is Ita Scare."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 482.0,
+    "end": 484.0,
+    "text": "And how many Ita gegh manages to get himself minus one?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 484.0,
+    "end": 485.0,
+    "text": "Ita into minus Ita minus Ita is square and minus Ita is Scare."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 485.0,
+    "end": 487.0,
+    "text": "We put down the minus number Yemen."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 487.0,
+    "end": 496.0,
+    "text": "So this complete table is known as the Kelle table."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 496.0,
+    "end": 501.0,
+    "text": "Now what I told you in the beginning that row and column are representing elements."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 501.0,
+    "end": 505.0,
+    "text": "This is our row and this column represents our elements."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 505.0,
+    "end": 507.0,
+    "text": "The first set of elements is the first set of elements."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 507.0,
+    "end": 508.0,
+    "text": "We are doing A to A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 508.0,
+    "end": 511.0,
+    "text": "Every cell that is giving you the answer,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 511.0,
+    "end": 513.0,
+    "text": "What is the answer to this?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 513.0,
+    "end": 517.0,
+    "text": "When the elements are being operated with that particular binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 517.0,
+    "end": 519.0,
+    "text": "And this time we were doing a multiply operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 519.0,
+    "end": 521.0,
+    "text": "Now you can take anything here where I did A plus B plus 2."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 521.0,
+    "end": 523.0,
+    "text": "Binary operation can be anything."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 523.0,
+    "end": 525.0,
+    "text": "So all these elements are working."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 525.0,
+    "end": 526.0,
+    "text": "Now think one more thing."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 526.0,
+    "end": 528.0,
+    "text": "If we are calling it binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 528.0,
+    "end": 530.0,
+    "text": "This means all the outputs that came,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 530.0,
+    "end": 532.0,
+    "text": "All the outputs that came,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 532.0,
+    "end": 534.0,
+    "text": "All those outputs should belong to that set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 534.0,
+    "end": 535.0,
+    "text": "Only then it will be called binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 535.0,
+    "end": 536.0,
+    "text": "Look carefully."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 536.0,
+    "end": 538.0,
+    "text": "1 minus 1 Ita minus Ita."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 538.0,
+    "end": 541.0,
+    "text": "Ita minus Ita minus Ita minus 1 plus 1."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 541.0,
+    "end": 542.0,
+    "text": "And minus Ita Ita plus 1 minus 1."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 542.0,
+    "end": 544.0,
+    "text": "All the elements belong to A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 544.0,
+    "end": 545.0,
+    "text": "That is why it is called binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 545.0,
+    "end": 546.0,
+    "text": "So under binary operation,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 546.0,
+    "end": 547.0,
+    "text": "When there are two sets in between."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 547.0,
+    "end": 548.0,
+    "text": "Although they are the same set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 548.0,
+    "end": 549.0,
+    "text": "And with any binary operation,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 549.0,
+    "end": 553.0,
+    "text": "The table that represents the row and column is known as the Kelle table."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 553.0,
+    "end": 555.0,
+    "text": "Now, I hope you understood the things very nicely."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 555.0,
+    "end": 557.0,
+    "text": "Next our topic is the algebraic structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 557.0,
+    "end": 560.0,
+    "text": "Look, this word will seem very simple to you."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 560.0,
+    "end": 562.0,
+    "text": "But if I don't explain this to you"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 562.0,
+    "end": 564.0,
+    "text": "or if you don't know about the algebraic structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 564.0,
+    "end": 565.0,
+    "text": "So all the studies,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 565.0,
+    "end": 566.0,
+    "text": "Whether it is group theory,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 566.0,
+    "end": 567.0,
+    "text": "Whether it is ring theory,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 567.0,
+    "end": 569.0,
+    "text": "Whatever the stat relates to the abstract algebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 569.0,
+    "end": 572.0,
+    "text": "I mean the algebraic structure of the abstract algebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 572.0,
+    "end": 573.0,
+    "text": "I mean if we don't know about the structure,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 573.0,
+    "end": 574.0,
+    "text": "We can't even stand on it."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 574.0,
+    "end": 575.0,
+    "text": "What does it mean?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 575.0,
+    "end": 577.0,
+    "text": "What does the structure say?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 577.0,
+    "end": 580.0,
+    "text": "It says that the structure of the algebraic structure is an ordered pair."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 580.0,
+    "end": 582.0,
+    "text": "This is related like an ordered pair."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 582.0,
+    "end": 584.0,
+    "text": "I will explain everything very easily here."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 584.0,
+    "end": 585.0,
+    "text": "So that every student is useful."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 585.0,
+    "end": 586.0,
+    "text": "I know that many students' math can be weak."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 586.0,
+    "end": 587.0,
+    "text": "It can be average."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 587.0,
+    "end": 588.0,
+    "text": "It can be very advanced."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 588.0,
+    "end": 589.0,
+    "text": "So I am going to discuss every topic."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 589.0,
+    "end": 590.0,
+    "text": "I will go from 0 to infinite."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 590.0,
+    "end": 591.0,
+    "text": "I am going to start with the basics."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 591.0,
+    "end": 592.0,
+    "text": "Clear?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 592.0,
+    "end": 594.0,
+    "text": "He is saying that if there is such an ordered pair,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 594.0,
+    "end": 596.0,
+    "text": "Consisting a non-empty set A,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 596.0,
+    "end": 598.0,
+    "text": "Where the first element is the set"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 598.0,
+    "end": 600.0,
+    "text": "On which we are working."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 600.0,
+    "end": 601.0,
+    "text": "And one more binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 601.0,
+    "end": 603.0,
+    "text": "The star is representing"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 603.0,
+    "end": 604.0,
+    "text": "More than one binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 604.0,
+    "end": 605.0,
+    "text": "It can be like this."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 605.0,
+    "end": 607.0,
+    "text": "I satisfy one set of two binary operations."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 607.0,
+    "end": 609.0,
+    "text": "Like z was for plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 609.0,
+    "end": 611.0,
+    "text": "So z is also for minus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 611.0,
+    "end": 613.0,
+    "text": "I will minus any integer from any integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 613.0,
+    "end": 614.0,
+    "text": "It is also for multiply."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 614.0,
+    "end": 615.0,
+    "text": "Is it for division?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 615.0,
+    "end": 616.0,
+    "text": "No."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 616.0,
+    "end": 617.0,
+    "text": "Because 2 is an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 617.0,
+    "end": 618.0,
+    "text": "3 is an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 618.0,
+    "end": 619.0,
+    "text": "But 2 by 3 is not an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 619.0,
+    "end": 620.0,
+    "text": "So it says that"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 620.0,
+    "end": 621.0,
+    "text": "When such an ordered pair is written,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 621.0,
+    "end": 623.0,
+    "text": "Where the first element is related to non-empty sets."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 623.0,
+    "end": 624.0,
+    "text": "The second element is related to non-empty sets."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 624.0,
+    "end": 625.0,
+    "text": "The second element is related to"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 625.0,
+    "end": 626.0,
+    "text": "Which you are working through the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 626.0,
+    "end": 627.0,
+    "text": "Define on A."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 627.0,
+    "end": 628.0,
+    "text": "Define."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 628.0,
+    "end": 630.0,
+    "text": "That satisfies the specific alzebraic properties."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 630.0,
+    "end": 632.0,
+    "text": "When it satisfies all the alzebraic properties."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 632.0,
+    "end": 634.0,
+    "text": "Although we are going to read all the properties."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 634.0,
+    "end": 635.0,
+    "text": "What is the property of the community?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 635.0,
+    "end": 636.0,
+    "text": "What is the associative?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 636.0,
+    "end": 637.0,
+    "text": "In the next lecture."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 637.0,
+    "end": 639.0,
+    "text": "The structure forms the foundation of the alzebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 639.0,
+    "end": 640.0,
+    "text": "This is the structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 640.0,
+    "end": 641.0,
+    "text": "The foundation of the alzebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 641.0,
+    "end": 643.0,
+    "text": "And allow systematic study of the mathematical system"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 643.0,
+    "end": 645.0,
+    "text": "Of the group rings and field."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 645.0,
+    "end": 646.0,
+    "text": "If we don't get the structure,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 646.0,
+    "end": 647.0,
+    "text": "Then the rings, group and field."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 647.0,
+    "end": 649.0,
+    "text": "And the alzebra's foundation will be finished."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 649.0,
+    "end": 650.0,
+    "text": "That means."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 650.0,
+    "end": 652.0,
+    "text": "Now I will explain it in a very simple way."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 652.0,
+    "end": 653.0,
+    "text": "Look."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 653.0,
+    "end": 654.0,
+    "text": "We did a work."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 654.0,
+    "end": 655.0,
+    "text": "It was called natural."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 655.0,
+    "end": 656.0,
+    "text": "For that."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 656.0,
+    "end": 657.0,
+    "text": "Plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 657.0,
+    "end": 658.0,
+    "text": "It is a binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 658.0,
+    "end": 659.0,
+    "text": "Whenever I will pick up two natural numbers."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 659.0,
+    "end": 660.0,
+    "text": "I will add them again."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 660.0,
+    "end": 661.0,
+    "text": "I will get natural again."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 661.0,
+    "end": 662.0,
+    "text": "Your integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 662.0,
+    "end": 663.0,
+    "text": "For that."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 663.0,
+    "end": 664.0,
+    "text": "For the plus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 664.0,
+    "end": 665.0,
+    "text": "For the integer minus."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 665.0,
+    "end": 666.0,
+    "text": "For the integer multiply."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 666.0,
+    "end": 667.0,
+    "text": "What is it?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 667.0,
+    "end": 668.0,
+    "text": "It is working like a binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 668.0,
+    "end": 669.0,
+    "text": "So."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 669.0,
+    "end": 670.0,
+    "text": "If we."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 670.0,
+    "end": 672.0,
+    "text": "Make it an ordered pair."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 672.0,
+    "end": 674.0,
+    "text": "Where the first thing is related to that set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 674.0,
+    "end": 676.0,
+    "text": "Where we are putting the binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 676.0,
+    "end": 677.0,
+    "text": "The second element."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 677.0,
+    "end": 678.0,
+    "text": "The second notation is showing."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 678.0,
+    "end": 679.0,
+    "text": "With that binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 679.0,
+    "end": 680.0,
+    "text": "Which is working under that set."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 680.0,
+    "end": 681.0,
+    "text": "For that binary operation."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 681.0,
+    "end": 683.0,
+    "text": "This complete ordered pair is known as the alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 683.0,
+    "end": 684.0,
+    "text": "What is the term for this complete."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 684.0,
+    "end": 685.0,
+    "text": "Alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 685.0,
+    "end": 686.0,
+    "text": "So."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 686.0,
+    "end": 687.0,
+    "text": "The root plus also has alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 687.0,
+    "end": 689.0,
+    "text": "The root minus also has alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 689.0,
+    "end": 691.0,
+    "text": "The integral Intelligence also has alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 691.0,
+    "end": 692.0,
+    "text": "So."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 692.0,
+    "end": 693.0,
+    "text": "I."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 693.0,
+    "end": 693.94,
+    "text": "Division is not an alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 693.94,
+    "end": 695.0,
+    "text": "This is not an alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 695.0,
+    "end": 697.0,
+    "text": "Because there is no reasonable demanded of two integer division."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 697.0,
+    "end": 698.0,
+    "text": "That must be an integer."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 698.0,
+    "end": 699.0,
+    "text": "This means the binary operation division is mere."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 699.0,
+    "end": 701.0,
+    "text": "This is without such a natural dimensional number dangling."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 701.0,
+    "end": 702.0,
+    "text": "This is an alzebriq structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 702.0,
+    "end": 704.0,
+    "text": "This obviously is not tightened by an Alzebriq division."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 704.0,
+    "end": 705.0,
+    "text": "It."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 705.0,
+    "end": 706.0,
+    "text": "Isx Just the two two eight."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 706.0,
+    "end": 707.0,
+    "text": "You can't divide it."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 707.0,
+    "end": 709.0,
+    "text": "So these are known as the algebraic structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 709.0,
+    "end": 711.0,
+    "text": "Now there are some conditions on the algebraic structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 711.0,
+    "end": 717.0,
+    "text": "For example, combative property, associative property, existence of identity element, inverse element."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 717.0,
+    "end": 719.0,
+    "text": "So we are going to read all these properties in our next lecture."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 719.0,
+    "end": 722.0,
+    "text": "And the property which will satisfy the algebraic structure,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 722.0,
+    "end": 725.0,
+    "text": "it will be called group, ring, field."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 725.0,
+    "end": 727.0,
+    "text": "It depends on the property, which property it is satisfying."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 727.0,
+    "end": 729.0,
+    "text": "I hope you have understood the things very well."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 729.0,
+    "end": 731.0,
+    "text": "So the first thing that we have read here,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 731.0,
+    "end": 733.0,
+    "text": "which is our binding operation, we have seen the basic definitions."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 733.0,
+    "end": 735.0,
+    "text": "And what is the calorie table?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 735.0,
+    "end": 737.0,
+    "text": "And how can we operate it?"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 737.0,
+    "end": 739.0,
+    "text": "And our next topic was the algebraic structure."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 739.0,
+    "end": 741.0,
+    "text": "So I hope you are getting the things very clearly."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 741.0,
+    "end": 743.0,
+    "text": "All the things that we are reading here,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 743.0,
+    "end": 745.0,
+    "text": "we are discussing here, we will do it in detail."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 745.0,
+    "end": 747.0,
+    "text": "We will do it in great detail."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 747.0,
+    "end": 749.0,
+    "text": "As soon as these 4-5 basic lectures are completed,"
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 749.0,
+    "end": 751.0,
+    "text": "we will jump to the main topic of the linear algebra."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 751.0,
+    "end": 753.0,
+    "text": "So I hope you have got the things clearly."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 753.0,
+    "end": 755.0,
+    "text": "See you in the next video."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 755.0,
+    "end": 757.0,
+    "text": "Same time, same day. Have a good day to all of you."
+  },
+  {
+    "video_id": 1,
+    "video_title": "1 Binary operation",
+    "start": 757.0,
+    "end": 759.0,
+    "text": "Bye-bye."
+  }
+]

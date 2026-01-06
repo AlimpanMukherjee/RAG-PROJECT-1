@@ -1,0 +1,17 @@
+# Large Binaries (The ones causing your error)
+OllamaSetup.exe
+*.exe
+
+# Media Folders
+vdoResource/
+*.mp4
+
+# Python environment (Best practice)
+__pycache__/
+.env
+venv/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db

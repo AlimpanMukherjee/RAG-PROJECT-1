@@ -1,0 +1,9 @@
+The associative property states that for a binary operation (like addition or multiplication) defined on a set, the way in which three elements are grouped for the operation does not affect the result.
+
+Specifically, for any three elements 'a', 'b', and 'c' in the set, the following must hold true:
+(a * b) * c = a * (b * c)
+
+This video explains this property, mentioning that it applies if you pick any three elements and the left side equals the right side.
+
+**Video:** (General Algebra/Abstract Algebra Tutorial)
+**Time Range:** 93.0s – 111.0s

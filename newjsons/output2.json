@@ -1,0 +1,397 @@
+[
+  {
+    "start": 0.0,
+    "end": 24.0,
+    "text": "Today, we are going to discuss the fundamental properties of binary operations. In the last lecture, we learned about binary operations and how we can apply them. In this video, we are going to talk about all the properties that are connected with binary operations. We are going to talk about which algebraic structure will be called as a group, which algebraic structure will be called as a ring, which will be called as a field. It all depends on this property. So, we should know all these properties carefully. So, welcome to Gate Smashers. My name is Ankit Radha. Let's start."
+  },
+  {
+    "start": 24.0,
+    "end": 43.0,
+    "text": "The first thing that is our most common property is the Closet property. Look, to be very frank, you all have read all these properties in your small classes. But what do you have to do with the same properties? You have to apply them in the elements of the set with some binary operation. Earlier, we used to do all these properties plus or minus in multiply. Now, if I fit these properties in the binary operation, what will it be called? The property of the binary operation. So, you have the first property, Closet property."
+  },
+  {
+    "start": 43.0,
+    "end": 55.0,
+    "text": "Now, what is the meaning of Closet property? What is the meaning of addition is closed under z? What does this mean? I am saying that when two integers are added, the same integer will come back. That is the same story. It is called binary operation star. You have any binary operation star. We are taking the binary default star here."
+  },
+  {
+    "start": 55.0,
+    "end": 73.0,
+    "text": "You can keep any dot or anything. Now, the binary operation star is set A satisfies the Closet property if A belongs to A. If we are working on a set A, we will pick two elements which are of the same set A and the result. And when we operate the binary operation, the result will come back to that set. That means, what will be the property of Closet? A small example. First, let's do a simple example."
+  },
+  {
+    "start": 73.0,
+    "end": 93.0,
+    "text": "After that, we will choose an example in which we understand the help of the binary operation. Look, if I tell you one thing, if I pick an element A and pick another element B. When I am adding both, the answer is C. And I am talking about all the integers. Then we know that when I operate plus two elements, the addition of them will be integer. So, the addition will be closed under one integer. And here we have the binary operation clause."
+  },
+  {
+    "start": 93.0,
+    "end": 111.0,
+    "text": "The property that we are applying on the set that we have applied. Second property, associative property. Associative means that if a binary operation star on set A is associative. If you pick any three elements of that set. And if left is equal to right, that means we will get the associative property applied. Now, what are you saying? Look, I am saying A."
+  },
+  {
+    "start": 111.0,
+    "end": 123.0,
+    "text": "If I add A to B plus C. I am talking about the addition. There is a binary operation. And if I add B to any element A and add C later. Will there be any difference in the answer? No. If there is no difference in the answer for that binary operation."
+  },
+  {
+    "start": 123.0,
+    "end": 133.0,
+    "text": "That means it will be associated with the property. Next property is yours. Look, there are four most common properties. After that, the property that we have is useful in ring and field. Most of them. Identity element. This is called an identity element E."
+  },
+  {
+    "start": 133.0,
+    "end": 148.0,
+    "text": "Whichever set you operate on, there should be a single element in it. Whichever element we call an identity element. When it will be operated on with any element. The same element will be looped back. For example, if I am talking about any A element. I am putting a binary operation on it. With some other element."
+  },
+  {
+    "start": 148.0,
+    "end": 156.0,
+    "text": "Okay? And the answer is returned to me by looping A. So what will we say in this scenario? Who is B? B is an identity element of A. Why is it an identity element? Because it has been operated on again."
+  },
+  {
+    "start": 156.0,
+    "end": 164.0,
+    "text": "It has come back to identity itself. Identity is what it is called. In which it is operated on itself. No one else can be an identity. Simple example. If I talk about the integers. For each integer."
+  },
+  {
+    "start": 164.0,
+    "end": 172.0,
+    "text": "The one element that is working like an identity element. Who is it? Zero. If I am talking about an under addition. Like two. If I add zero in two. Obviously the answer will be two."
+  },
+  {
+    "start": 172.0,
+    "end": 180.0,
+    "text": "If I add zero in minus two. Then it will be minus two answer. It is the same binary operation game. If you are operating on two elements. The same element is coming. What will the other element be called? Identity."
+  },
+  {
+    "start": 180.0,
+    "end": 190.0,
+    "text": "And by default. We will represent the identity element in our questions. Just that it can be seen a little different. Here. Next is your property. Inverse element. See the meaning of inverse element."
+  },
+  {
+    "start": 190.0,
+    "end": 201.0,
+    "text": "We are working on star on any binary operation. B is a binary operation. With identity element E. The identity element that we have found. What does that mean? When any element will be operated on by an identity element. The answer will be the same."
+  },
+  {
+    "start": 201.0,
+    "end": 211.0,
+    "text": "That means. When you have found the identity element. Now. To bring that identity element back. What is the need for that element. What will be the same element? Inverse."
+  },
+  {
+    "start": 211.0,
+    "end": 218.0,
+    "text": "Like here. What did I tell you? That the identity element of each integer. Under addition. Zero. If I tell you this. Minus two."
+  },
+  {
+    "start": 218.0,
+    "end": 226.0,
+    "text": "What should I add in minus two. I am talking about addition. For example. What should I add in minus two. The identity element of this. Under addition. Who was the identity element of Z."
+  },
+  {
+    "start": 226.0,
+    "end": 234.0,
+    "text": "Zero. So we know that. We have to add the opposite sign. So if I am talking about minus one. If I add one in minus one. Then it will be zero. Just keep this in mind."
+  },
+  {
+    "start": 234.0,
+    "end": 243.0,
+    "text": "The identity element that you have already searched. Under the binary operation. You have to find that. It is not necessary that. This is talking about addition. If I explain this with the help of multiplication. See."
+  },
+  {
+    "start": 243.0,
+    "end": 250.0,
+    "text": "If I am two. What should I multiply two. That two will be the answer. Obviously. One. So one is the identity element for integer. Under multiplication."
+  },
+  {
+    "start": 250.0,
+    "end": 258.0,
+    "text": "But if I say. What should be operated in any element. That again its identity element. Then its reciprocal. Do you understand. Multiply will be reciprocal. In the game of plus minus."
+  },
+  {
+    "start": 258.0,
+    "end": 265.0,
+    "text": "The same magnitude. Divide it. That is plus. Minus. Plus. For example. It will be clear to all of you."
+  },
+  {
+    "start": 265.0,
+    "end": 272.0,
+    "text": "Distributive property. Distributive property is that. If you are picking any three elements. Where we are talking about operate. If it is. First thing. One thing."
+  },
+  {
+    "start": 272.0,
+    "end": 281.0,
+    "text": "Satisfying the condition. For example. Star is my first binary operation. This dot. My second binary operation. So if I solve this story. I solve this."
+  },
+  {
+    "start": 281.0,
+    "end": 289.0,
+    "text": "Or. I separate them. I separate A with B. Together. This dot is my second binary operation. I separate A with C. Whatever will be the answer."
+  },
+  {
+    "start": 289.0,
+    "end": 296.0,
+    "text": "Then I put this binary operation. If the answer is same. That means. What will happen. Distributive. Let's take a small example. With the help of simple integer."
+  },
+  {
+    "start": 296.0,
+    "end": 303.0,
+    "text": "Suppose I have picked two three. One. Two. Three. And I am playing the game. Plus for multiplication. Okay."
+  },
+  {
+    "start": 303.0,
+    "end": 310.0,
+    "text": "In the left side. I am trying to say. One. Multiply by. Two plus three. If equal. Distributive property."
+  },
+  {
+    "start": 310.0,
+    "end": 317.0,
+    "text": "I have read in small classes. These two. With this operation. Then these two. With this operation. And who is sitting in the middle. Second operation."
+  },
+  {
+    "start": 317.0,
+    "end": 324.0,
+    "text": "So if left is equal to right. That will handle the distributive property. That means solve. Commutative. Very basic definition. Commutative property. That means if you handle A star B."
+  },
+  {
+    "start": 324.0,
+    "end": 331.0,
+    "text": "Handle B star A. The answer should be same. We have read in small classes. That if I add two in one. Or add one in two. The answer doesn't matter. Or multiply in one."
+  },
+  {
+    "start": 331.0,
+    "end": 338.0,
+    "text": "Or multiply in two. The answer doesn't matter. So all these properties. Are the same properties. That you read in small classes. But. With some binary operation."
+  },
+  {
+    "start": 338.0,
+    "end": 346.0,
+    "text": "In a small example. It will be clear to you. Look. It is said that if two elements. Are being operated. With star. So how it is operated."
+  },
+  {
+    "start": 346.0,
+    "end": 353.0,
+    "text": "Our customization. With this binary operation. It has made a custom. That both will be multiplied. And will be divided in two. All properties. I have to check."
+  },
+  {
+    "start": 353.0,
+    "end": 360.0,
+    "text": "Who will satisfy. Who will not. You have to take care of the domain. It is said. A and B. Any real number. Except zero."
+  },
+  {
+    "start": 360.0,
+    "end": 367.0,
+    "text": "For except zero. There is a reason behind it. Maybe we will see in front. So the first property. That is. Commutative property. Which we have defined."
+  },
+  {
+    "start": 367.0,
+    "end": 374.0,
+    "text": "The last basic property. What was it. A star B. If B star A is equal. Let's see. Commutative property. If I am doing A star B."
+  },
+  {
+    "start": 374.0,
+    "end": 382.0,
+    "text": "Under our operation. What will be the answer. A and B will be multiplied. Then divided by two. So the answer is A B by two. And if I am doing B star A. So what will be the answer."
+  },
+  {
+    "start": 382.0,
+    "end": 389.0,
+    "text": "B multiplied by A. Divide by two. Even then the answer is A B by two. Because the multiplication itself. Commutative. So this means. What will be the answer."
+  },
+  {
+    "start": 389.0,
+    "end": 396.0,
+    "text": "Equal. So one property will be satisfied. Second property. Which was our first property. That is closer property. What was the closer property. What was the closer property."
+  },
+  {
+    "start": 396.0,
+    "end": 403.0,
+    "text": "If you are doing under addition. Then it should be under clause. Okay. What are we saying here. It should be under clause under binary operation. Who is our binary operation. This is the meaning of it."
+  },
+  {
+    "start": 403.0,
+    "end": 413.0,
+    "text": "If I am doing A star B. Who is A and B. It is a real number. So the output that is going to come from this. If that too. It is defined. That is always the answer."
+  },
+  {
+    "start": 413.0,
+    "end": 424.0,
+    "text": "So this means it will be closed. Under binary operation. Apply here. What does A star B. A multiplied by B divided by two. It is a simple logic. If A is your real number."
+  },
+  {
+    "start": 424.0,
+    "end": 432.0,
+    "text": "Accept zero. B is your real number. Accept zero. So when I will multiply and divide. That too will exist in the world. That too will be a real number. So that is real number."
+  },
+  {
+    "start": 432.0,
+    "end": 439.0,
+    "text": "That means binary operation. What did it do. It closed. So it will operate real and give real answer. Basic example. Now. Next time our associative property."
+  },
+  {
+    "start": 439.0,
+    "end": 447.0,
+    "text": "Look. The associative property said. That we have to pick three elements. So associative property. What did I do. One element A picked. Second element B picked."
+  },
+  {
+    "start": 447.0,
+    "end": 456.0,
+    "text": "Third element C picked. Okay. Now associative property said. If this left is equal to right. Then our story will tell the truth. With that particular binary operation. Now."
+  },
+  {
+    "start": 456.0,
+    "end": 466.0,
+    "text": "What am I doing. I just have to prove. That if left is equal to right. Which you understood for multiplication and addition. Just prove for binary operation. So let's solve the left side for once. Look."
+  },
+  {
+    "start": 466.0,
+    "end": 475.0,
+    "text": "This is our first element. This is our second element. So what does it say. When two elements are operating with binary. Both of them should be multiplied by two. So both of them multiply. Okay."
+  },
+  {
+    "start": 475.0,
+    "end": 482.0,
+    "text": "B divided by two. I am solving the left side. For now. Now what will happen. This is read. Multiply. This star is pending here."
+  },
+  {
+    "start": 482.0,
+    "end": 490.0,
+    "text": "How will the star open. Then both of them multiply. Divided by two. That is the answer I got. A, B, C divided by four. Let's solve its right side. Look."
+  },
+  {
+    "start": 490.0,
+    "end": 500.0,
+    "text": "If I first operate B with A. Then what will happen. A, B divided by two. Then what am I doing with it. I am operating C. What answer will come to me. A and B have been operated."
+  },
+  {
+    "start": 500.0,
+    "end": 508.0,
+    "text": "Here A, B divided by two. Let me read. Now. Both of them multiply. That is A, B divided by C divided by two. A is already sitting. So the answer is same."
+  },
+  {
+    "start": 508.0,
+    "end": 519.0,
+    "text": "This means this associative property is satisfied. So for now our three properties are satisfied. Which was the next property we have. Closer or associative. Identity element. Both of them are on an important side. Identity element what to do."
+  },
+  {
+    "start": 519.0,
+    "end": 531.0,
+    "text": "Look. To find the identity element. What was the meaning of identity element. Such an element should be in your whole set. When it will be operated with that particular element. The same element will come back. So this means I want."
+  },
+  {
+    "start": 531.0,
+    "end": 538.0,
+    "text": "One. I operate with any element. Give back A answer. Now I have to take out its value. Take out its value. What does A star E mean. This is okay."
+  },
+  {
+    "start": 538.0,
+    "end": 546.0,
+    "text": "The definition of identity element. The definition of A star E means. Both of them multiply divided by two. Okay. So I got the answer E. Two. It says for every element."
+  },
+  {
+    "start": 546.0,
+    "end": 554.0,
+    "text": "Two is its identity element. Take a look. Take a look. Take any element. Which is the real number. Like one by two. I am taking one by two."
+  },
+  {
+    "start": 554.0,
+    "end": 563.0,
+    "text": "And I want the answer one by two. It says for every element. Identity element two. So when I operate it with two. What will be the answer. Both of them multiply. Right."
+  },
+  {
+    "start": 563.0,
+    "end": 571.0,
+    "text": "And divide by two. So again I have the answer. Two by four which is one by two. It is a good number. I am operating one with two. What does it mean. One multiplied by two divided by two."
+  },
+  {
+    "start": 571.0,
+    "end": 578.0,
+    "text": "So the answer is made again. This one is the same element. Which was being operated. So that means. Two is the identity element of each and every. Element of the real number. Which we are working on."
+  },
+  {
+    "start": 578.0,
+    "end": 586.0,
+    "text": "Except zero. Clear. Next was our property. The existence of identity. Inverse element. It says. There should be some sort of element."
+  },
+  {
+    "start": 586.0,
+    "end": 595.0,
+    "text": "Which will be operated with any element. The answer will be the identity element. Which means. If I operate A star B. If the answer is E. Then what do I want. I want the value of B."
+  },
+  {
+    "start": 595.0,
+    "end": 602.0,
+    "text": "I want the value of B. I mean operate both of them. Identity. For us identity is two. How will A star B operate. Both of them multiplied by two. So I have the answer."
+  },
+  {
+    "start": 602.0,
+    "end": 609.0,
+    "text": "What is the value of B. From here. Four divided by A. It says. This is the inverse. Check it. How much time it takes to check."
+  },
+  {
+    "start": 609.0,
+    "end": 616.0,
+    "text": "Here is the example in front of you. It was one. It was one. Here. If I say. I want to find the identity element. Sorry."
+  },
+  {
+    "start": 616.0,
+    "end": 623.0,
+    "text": "I want to find the inverse. I will have the inverse. Which will not be operated with it. Give it back. Identity element. So I have two. The answer is the same."
+  },
+  {
+    "start": 623.0,
+    "end": 631.0,
+    "text": "You understand. The inverse will exist there. Now. If we have to cross check it. We can also make a plot. Four multiplied by A. Do it like this."
+  },
+  {
+    "start": 631.0,
+    "end": 639.0,
+    "text": "If I want to check it. Operate with A. The identity element of it. Without any example. It will be proved for all. How will the identity element be operated. Because the star is applied."
+  },
+  {
+    "start": 639.0,
+    "end": 646.0,
+    "text": "Both of them multiplied. Okay. Divide by two. A cut by A. Two. Two is the identity element of it. So when it is operated."
+  },
+  {
+    "start": 646.0,
+    "end": 653.0,
+    "text": "The answer is the same. The inverse exists. So now. What will be all the properties. Your distributive property. Look. The distributive property says."
+  },
+  {
+    "start": 653.0,
+    "end": 662.0,
+    "text": "If. I am A star. I am checking the binary operator. I am checking the under addition. We will do B plus C or. Solve A star B separately. Solve A star C separately."
+  },
+  {
+    "start": 662.0,
+    "end": 670.0,
+    "text": "And we have a plus sign in the middle. Okay. It is about the same binary operation. If these two are equal. So the distributive will be applied. What do these two mean? Both of them multiplied."
+  },
+  {
+    "start": 670.0,
+    "end": 677.0,
+    "text": "Divide by two. So the answer is A B by two. A C by two. This is it. It is done. A B by two, A C by two. We don't need to solve the right."
+  },
+  {
+    "start": 677.0,
+    "end": 685.0,
+    "text": "A B by two and A C by two. Who is it? A star B. And who is this? A star C. That is plus A star C. Do you understand?"
+  },
+  {
+    "start": 685.0,
+    "end": 693.0,
+    "text": "So these are all the six properties. On whose basis we are going to tell. Whom we will call group. Whom we will fill. I hope you have understood the things. In the next lecture. We will discuss."
+  },
+  {
+    "start": 693.0,
+    "end": 701.0,
+    "text": "About the module. Under addition or under multiplication. How to use by default binary operation. In different types of questions. I hope you have understood the things. See you in the next video. Learn something new."
+  },
+  {
+    "start": 701.0,
+    "end": 703.0,
+    "text": "Have a good day to all of you. Bye."
+  }
+]

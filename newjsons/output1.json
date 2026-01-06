@@ -1,0 +1,307 @@
+[
+  {
+    "start": 0.0,
+    "end": 42.0,
+    "text": "If you are preparing for any higher education, then the most famous book is Liner Alzebra. So in this whole playlist, we are going to upload videos of all those topics, whether it is basic definition or deep concept. If we follow everything, then this playlist will be very helpful for you. As we are going to do all the matches with your higher engineering and higher education, then we are going to cover all the playlists here. So we are starting with Liner Alzebra. So in today's video, we are going to mainly discuss what is the meaning of binary operation. So welcome all of you to your platform Gate Smashers."
+  },
+  {
+    "start": 42.0,
+    "end": 68.0,
+    "text": "My name is Ankit Rodha. Let's start without any delay. The first thing is that before starting Liner Alzebra, there are a lot of topics that you should know about. If I start Liner Alzebra, then I should know about group theory, ring theory, composition table, KLA theorem. We should know all these things in detail. Then it becomes a back output that we can start our Liner Alzebra very lovingly. So let's start."
+  },
+  {
+    "start": 68.0,
+    "end": 83.0,
+    "text": "In the two or three lectures of the starting, you will get to see the basic concept. As you are starting Liner Alzebra, then it will be very helpful for you. So let's start. The first definition is going to be here. What is the meaning of binary operation? So what is the meaning of binary operation? As we discuss operations in the maths, who do we call operations?"
+  },
+  {
+    "start": 83.0,
+    "end": 96.0,
+    "text": "Who do we call mathematical operations? What we do is that whenever two elements are operated, we mostly use these operations. Multiply, division, plus and minus. So the same way binary operation is also an operation that works on a set. Do you understand? These numbers work on where? These numbers, these operations work on where?"
+  },
+  {
+    "start": 96.0,
+    "end": 106.0,
+    "text": "On our numbers. Whether it is the natural number of integers and all. So where does this binary operation work? It will work on a set. And how does it work? Let's see in detail. So what is the definition of binary operation?"
+  },
+  {
+    "start": 106.0,
+    "end": 123.0,
+    "text": "It says binary operation on a set A is a function. That binary operation is defined in this way. The meaning of this is that if you have set A and the other is set A, that means we work on it. The input is also our same set and the output is also our same set. So if I pick one element from the same set, I pick the other element from the same set."
+  },
+  {
+    "start": 123.0,
+    "end": 137.0,
+    "text": "And if I operate both of them, and whatever answer comes to me, whatever answer comes to me, that is the same element of that set. That means through this operation, if you operate both of them, that particular operation is known as the binary operation. For example, let's understand. It says that assigned to every ordered pair,"
+  },
+  {
+    "start": 137.0,
+    "end": 146.0,
+    "text": "in each ordered pair, in A cross A, that means A is the element picked from A. In A, that means the output is seen. That means the input is also our same. The output is also our same. The first element of the ordered pair is A. The second element is also A."
+  },
+  {
+    "start": 146.0,
+    "end": 159.0,
+    "text": "Both of them are being operated. And the binary operation is shown here by star. That means A star B in A. When star operation comes, the answer will also be A. For example, as we understand, this means the operation combines any two elements, pick any two elements,"
+  },
+  {
+    "start": 159.0,
+    "end": 172.0,
+    "text": "one set C of the set and produce output that also belongs to the same set. Do you understand? Now let's discuss an example. You will be able to understand it more clearly. Listen, I said that our set is an integer. That means I am talking about all integers here."
+  },
+  {
+    "start": 172.0,
+    "end": 182.0,
+    "text": "And what did I do? I fixed a binary operation here. That is plus. I am talking about simple ordinary plus. I am talking about addition. Let me tell you something. When I pick one element,"
+  },
+  {
+    "start": 182.0,
+    "end": 193.0,
+    "text": "which belongs to Z, then I pick the second element, which belongs to Z. And if I add addition to both of them, which will be the third element, obviously that will also belong to Z. I mean if I pick one element,"
+  },
+  {
+    "start": 193.0,
+    "end": 200.0,
+    "text": "that is my integer. Then I pick the second element, that is also my integer. When I add an integer in an integer, what will happen to the answer? It will be an integer. This means one thing has been clarified here."
+  },
+  {
+    "start": 200.0,
+    "end": 215.0,
+    "text": "That the plus, we can count the plus as a binary operation on Z. Means ordinary addition is a binary operation on Z. I mean on the entire Z. I mean on the entire integer's spectre, that plus sign is working as a binary operation. Now it's not like that."
+  },
+  {
+    "start": 215.0,
+    "end": 225.0,
+    "text": "We are talking only about the plus. You can apply any binary operation. As I said, I will talk here. Let's talk about Z. Then we will do something else, which is not a binary operation count."
+  },
+  {
+    "start": 225.0,
+    "end": 235.0,
+    "text": "See, we are talking about Z. And I am saying, if we are applying a binary operation on Z, like A star B. Whose notation is showing here? The notation of binary operation is showing. How can you show binary operation?"
+  },
+  {
+    "start": 235.0,
+    "end": 244.0,
+    "text": "It doesn't matter. We are talking about simple ordinary plus, talking about minus, multiplying, dividing. I am showing it from star. From small dot. It can be shown to binary operation in any way."
+  },
+  {
+    "start": 244.0,
+    "end": 254.0,
+    "text": "I said A star B. We will always operate like this. When these two are added, then we will also add two. We have customized it. You can say that it is a binary operation. It is a customized operation."
+  },
+  {
+    "start": 254.0,
+    "end": 262.0,
+    "text": "It should satisfy the condition of the math operation. It should satisfy the condition. It should come back in the same set that you are applying operation in. In between the two elements. Now, see the simple logic."
+  },
+  {
+    "start": 262.0,
+    "end": 269.0,
+    "text": "If I take any element, which is an integer. Then I take another element, which is an integer. When I apply star operation, which is a binary operation, then what does it say?"
+  },
+  {
+    "start": 269.0,
+    "end": 277.0,
+    "text": "Add those two elements and add them again. Add two again. So let me tell you the simple answer. When these three things are going to be added. Three, two, five, four, seven. Is seven again"
+  },
+  {
+    "start": 277.0,
+    "end": 286.0,
+    "text": "belonging in the ZK? Yes, it is. So the two elements, which were in the same set, were operated with some operation. The third element was also belonging in the same set."
+  },
+  {
+    "start": 286.0,
+    "end": 293.0,
+    "text": "So that particular operation is known as the binary operation. I hope it will be clear to you. Now, this definition is our mean. It means that two elements were taken from the same set. They were operated."
+  },
+  {
+    "start": 293.0,
+    "end": 301.0,
+    "text": "All the outputs came back in the same set. Now, what is the example which is not working like the binary operation? There are many examples. You can choose any. Like this."
+  },
+  {
+    "start": 301.0,
+    "end": 314.0,
+    "text": "If I see a line here. Plus is binary operation. Okay. Plus is binary operation on capital N. When I add all the natural numbers in the same set,"
+  },
+  {
+    "start": 314.0,
+    "end": 326.0,
+    "text": "then what is the plus of it? If I add the natural number, then what does it become? It becomes natural. Okay. Minus is binary operation on natural. Will it work"
+  },
+  {
+    "start": 326.0,
+    "end": 333.0,
+    "text": "like the binary operation on every natural number? No. How? Suppose I took one element. I took the other element. It is natural."
+  },
+  {
+    "start": 333.0,
+    "end": 340.0,
+    "text": "As soon as I minus these two the answer has become minus 1. Does it belong to the natural or not? This means that minus isn't working like the binary operation."
+  },
+  {
+    "start": 340.0,
+    "end": 347.0,
+    "text": "Ordinary subtraction. It isn't working like the binary operation. Where? On the natural number. This is known as the binary operation. I hope you have cleared it."
+  },
+  {
+    "start": 347.0,
+    "end": 354.0,
+    "text": "I will take all these things in touch. As soon as the 4-5 lecture is over, then all these things will be useful. So, the topic we are"
+  },
+  {
+    "start": 354.0,
+    "end": 361.0,
+    "text": "discussing is going to be useful. After this, a word is used. That is, tailed table. Look, what is tailed table? This is a table that is going on"
+  },
+  {
+    "start": 361.0,
+    "end": 406.0,
+    "text": "but the composition word is used mostly where the two functions are operated with some binary operation where two sets of elements are operated, there is no big difference in this. Now, what does that mean? What does that mean? A Kerle table is a structured table that shows every pair of elements in a set combined under a binary operation. That means when you are taking two elements from a set, whatever binary operation you are putting between them and whatever output you are giving them, it works very simply to represent the Kerle table. For example, this is an A1 set that is showing an element from A1 to An. If we are putting a star binary operation on it, then the Kerle table will be shown in n cross n grid. Where A, which is representing the row, is the element of A."
+  },
+  {
+    "start": 406.0,
+    "end": 425.0,
+    "text": "The first element is showing the columns. The second element is obviously working on the same set. And every cell is representing that row A i and column A j contain this when the element is also using the binary operation. Let me give you an example. You will be able to see it clearly. Suppose we are taking a set. I took a set A and put any four elements in that set."
+  },
+  {
+    "start": 425.0,
+    "end": 443.0,
+    "text": "One minus one, Iota and minus Iota. I am working on these four elements and I am saying that I have to work under multiplication. So how will the Kerle table be drawn? First, one minus one, Iota and minus Iota. The row is showing the first set. The column is setting the second set. So that is one minus one, Iota and minus Iota."
+  },
+  {
+    "start": 443.0,
+    "end": 462.0,
+    "text": "And what operation am I working on? What operation am I working on? I am going to proceed under simple multiplication. Now this table will be called as this complete table is known as the Kerle table. And when you operate this table for two functions, then we call this table as composition table. Where two functions are being composed. Let me talk about the问题,"
+  },
+  {
+    "start": 462.0,
+    "end": 476.0,
+    "text": "If I multiply one with one, then how much will the answer be? 1 with a formerly multiplied minus one is minus one. 1 into Ita is Ita. So all the numbers are going to go back, right? Minus one into minus one is minus. Minus one into minus one is minus one is plus. Ita into minus one is minus Ita."
+  },
+  {
+    "start": 476.0,
+    "end": 487.0,
+    "text": "And minus one into minus Ita is plus Ita. Ita into one Ita. Ita into minus one is minus Ita. Ita into Ita is Ita Scare. And how many Ita gegh manages to get himself minus one? Ita into minus Ita minus Ita is square and minus Ita is Scare. We put down the minus number Yemen."
+  },
+  {
+    "start": 487.0,
+    "end": 513.0,
+    "text": "So this complete table is known as the Kelle table. Now what I told you in the beginning that row and column are representing elements. This is our row and this column represents our elements. The first set of elements is the first set of elements. We are doing A to A. Every cell that is giving you the answer, What is the answer to this?"
+  },
+  {
+    "start": 513.0,
+    "end": 528.0,
+    "text": "When the elements are being operated with that particular binary operation. And this time we were doing a multiply operation. Now you can take anything here where I did A plus B plus 2. Binary operation can be anything. So all these elements are working. Now think one more thing. If we are calling it binary operation."
+  },
+  {
+    "start": 528.0,
+    "end": 541.0,
+    "text": "This means all the outputs that came, All the outputs that came, All those outputs should belong to that set. Only then it will be called binary operation. Look carefully. 1 minus 1 Ita minus Ita. Ita minus Ita minus Ita minus 1 plus 1."
+  },
+  {
+    "start": 541.0,
+    "end": 549.0,
+    "text": "And minus Ita Ita plus 1 minus 1. All the elements belong to A. That is why it is called binary operation. So under binary operation, When there are two sets in between. Although they are the same set. And with any binary operation,"
+  },
+  {
+    "start": 549.0,
+    "end": 565.0,
+    "text": "The table that represents the row and column is known as the Kelle table. Now, I hope you understood the things very nicely. Next our topic is the algebraic structure. Look, this word will seem very simple to you. But if I don't explain this to you or if you don't know about the algebraic structure. So all the studies,"
+  },
+  {
+    "start": 565.0,
+    "end": 575.0,
+    "text": "Whether it is group theory, Whether it is ring theory, Whatever the stat relates to the abstract algebra. I mean the algebraic structure of the abstract algebra. I mean if we don't know about the structure, We can't even stand on it. What does it mean?"
+  },
+  {
+    "start": 575.0,
+    "end": 587.0,
+    "text": "What does the structure say? It says that the structure of the algebraic structure is an ordered pair. This is related like an ordered pair. I will explain everything very easily here. So that every student is useful. I know that many students' math can be weak. It can be average."
+  },
+  {
+    "start": 587.0,
+    "end": 596.0,
+    "text": "It can be very advanced. So I am going to discuss every topic. I will go from 0 to infinite. I am going to start with the basics. Clear? He is saying that if there is such an ordered pair, Consisting a non-empty set A,"
+  },
+  {
+    "start": 596.0,
+    "end": 607.0,
+    "text": "Where the first element is the set On which we are working. And one more binary operation. The star is representing More than one binary operation. It can be like this. I satisfy one set of two binary operations."
+  },
+  {
+    "start": 607.0,
+    "end": 617.0,
+    "text": "Like z was for plus. So z is also for minus. I will minus any integer from any integer. It is also for multiply. Is it for division? No. Because 2 is an integer."
+  },
+  {
+    "start": 617.0,
+    "end": 625.0,
+    "text": "3 is an integer. But 2 by 3 is not an integer. So it says that When such an ordered pair is written, Where the first element is related to non-empty sets. The second element is related to non-empty sets. The second element is related to"
+  },
+  {
+    "start": 625.0,
+    "end": 635.0,
+    "text": "Which you are working through the binary operation. Define on A. Define. That satisfies the specific alzebraic properties. When it satisfies all the alzebraic properties. Although we are going to read all the properties. What is the property of the community?"
+  },
+  {
+    "start": 635.0,
+    "end": 645.0,
+    "text": "What is the associative? In the next lecture. The structure forms the foundation of the alzebra. This is the structure. The foundation of the alzebra. And allow systematic study of the mathematical system Of the group rings and field."
+  },
+  {
+    "start": 645.0,
+    "end": 654.0,
+    "text": "If we don't get the structure, Then the rings, group and field. And the alzebra's foundation will be finished. That means. Now I will explain it in a very simple way. Look. We did a work."
+  },
+  {
+    "start": 654.0,
+    "end": 661.0,
+    "text": "It was called natural. For that. Plus. It is a binary operation. Whenever I will pick up two natural numbers. I will add them again. I will get natural again."
+  },
+  {
+    "start": 661.0,
+    "end": 668.0,
+    "text": "Your integer. For that. For the plus. For the integer minus. For the integer multiply. What is it? It is working like a binary operation."
+  },
+  {
+    "start": 668.0,
+    "end": 678.0,
+    "text": "So. If we. Make it an ordered pair. Where the first thing is related to that set. Where we are putting the binary operation. The second element. The second notation is showing."
+  },
+  {
+    "start": 678.0,
+    "end": 686.0,
+    "text": "With that binary operation. Which is working under that set. For that binary operation. This complete ordered pair is known as the alzebriq structure. What is the term for this complete. Alzebriq structure. So."
+  },
+  {
+    "start": 686.0,
+    "end": 695.0,
+    "text": "The root plus also has alzebriq structure. The root minus also has alzebriq structure. The integral Intelligence also has alzebriq structure. So. I. Division is not an alzebriq structure. This is not an alzebriq structure."
+  },
+  {
+    "start": 695.0,
+    "end": 705.0,
+    "text": "Because there is no reasonable demanded of two integer division. That must be an integer. This means the binary operation division is mere. This is without such a natural dimensional number dangling. This is an alzebriq structure. This obviously is not tightened by an Alzebriq division. It."
+  },
+  {
+    "start": 705.0,
+    "end": 722.0,
+    "text": "Isx Just the two two eight. You can't divide it. So these are known as the algebraic structure. Now there are some conditions on the algebraic structure. For example, combative property, associative property, existence of identity element, inverse element. So we are going to read all these properties in our next lecture. And the property which will satisfy the algebraic structure,"
+  },
+  {
+    "start": 722.0,
+    "end": 737.0,
+    "text": "it will be called group, ring, field. It depends on the property, which property it is satisfying. I hope you have understood the things very well. So the first thing that we have read here, which is our binding operation, we have seen the basic definitions. And what is the calorie table? And how can we operate it?"
+  },
+  {
+    "start": 737.0,
+    "end": 751.0,
+    "text": "And our next topic was the algebraic structure. So I hope you are getting the things very clearly. All the things that we are reading here, we are discussing here, we will do it in detail. We will do it in great detail. As soon as these 4-5 basic lectures are completed, we will jump to the main topic of the linear algebra."
+  },
+  {
+    "start": 751.0,
+    "end": 759.0,
+    "text": "So I hope you have got the things clearly. See you in the next video. Same time, same day. Have a good day to all of you. Bye-bye."
+  }
+]

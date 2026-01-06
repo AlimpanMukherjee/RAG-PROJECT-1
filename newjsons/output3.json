@@ -1,0 +1,232 @@
+[
+  {
+    "start": 0.0,
+    "end": 19.0,
+    "text": "What is the meaning of internal and external binary operation? It is very important to know about external and internal binary operations. If we want to study linear algebra, where the algebraic structure will be discussed, where there will be 2 sets and 1 set of operations, then it is very important to know about internal and external binary operations. So, welcome to Gate Smashers, without any delay, let's start. First of all, what is the meaning of internal binary operation?"
+  },
+  {
+    "start": 19.0,
+    "end": 38.0,
+    "text": "As the word is here, the definition of it is the same. Internal binary operation says that the operations that are inside, the actions that are inside with some binary operation, depend on the internal binary operation. It is called a binary operation, whose name is star, which is working on any set A. The meaning of working on any set A is that your input is also A,"
+  },
+  {
+    "start": 38.0,
+    "end": 54.0,
+    "text": "the output is also A. The first element is taken from that set, the second element is also taken from that set. The output that we have in the last set will also be taken from that set. One set is taken, the other two elements are taken, the binary operation is done in both of them. Obviously, the same binary operation which is following the algebraic structure, the binary operation is applied in both of them,"
+  },
+  {
+    "start": 54.0,
+    "end": 70.0,
+    "text": "and the element of that set comes back. That is known as the internal binary operation. So, what does it say? There are two elements A and B. The elements that belong to A set, if the star is applied in between them, the third element that is going to come back, that C element also belongs to A. It will also belong to A. This means the operation is closed within the set."
+  },
+  {
+    "start": 70.0,
+    "end": 86.0,
+    "text": "The output never leaves the set. The output will never leave the set. The best example, if we talk here, if I am calling Z as the algebraic structure with the help of plus, this is a complete algebraic structure. So, I will take any integer and add any integer from it. The answer will come to me,"
+  },
+  {
+    "start": 86.0,
+    "end": 101.0,
+    "text": "it will also exist within the integer. This means, this time for Z, this is our internal binary operation. The output of the set is also going to be of the same set. Clear? I hope it is clear. If I tell you another example, there is one set A,"
+  },
+  {
+    "start": 101.0,
+    "end": 115.0,
+    "text": "in which all the vectors are represented in the world. Clear? And if I say A plus or minus, which is the algebraic structure I have, there is absolutely one. Because if I take any two vectors from A set, the first vector,"
+  },
+  {
+    "start": 115.0,
+    "end": 125.0,
+    "text": "which is called Z1, the second vector, which is called Z2, which is called Z1, the second vector, which is called Z2, as soon as both the vectors are added,"
+  },
+  {
+    "start": 125.0,
+    "end": 134.0,
+    "text": "the answer will come to me, it will also be a vector quantity. It cannot be like that, it will become a scalar quantity. This means, the operation that is being done, in that set, we will get two elements."
+  },
+  {
+    "start": 134.0,
+    "end": 143.0,
+    "text": "We will get the same set element, that is internal binary operation. External binary operation. This becomes a little important if you are moving like a linear algebra. External binary operation, as it is written in its name,"
+  },
+  {
+    "start": 143.0,
+    "end": 151.0,
+    "text": "if it is external binary operation, it will work somewhere else. How? It is called A and B. There are two non-empty sets. Okay? And one element has been raised from A."
+  },
+  {
+    "start": 151.0,
+    "end": 161.0,
+    "text": "The second element has been raised from B. The answer has to be the same element. The first set has been raised from A. The second set has been raised from A. Both have been operated with some binary operation. The output of the answer, is the first set element."
+  },
+  {
+    "start": 161.0,
+    "end": 168.0,
+    "text": "So that particular binary operation is known as the external. We understand it better. So what is the external binary operation that is being said? If one element is being raised from A, one element is being raised from B."
+  },
+  {
+    "start": 168.0,
+    "end": 178.0,
+    "text": "And the result of the result of binary operation, it comes back to A. So this means that it is following the external binary operation. This means the first input. Okay? Comes from set A."
+  },
+  {
+    "start": 178.0,
+    "end": 188.0,
+    "text": "Obviously it is. And the second from set B. Obviously it is. But the output always stays in the set A. That is, the first set will never leave its structure. That is known as the external binary operation."
+  },
+  {
+    "start": 188.0,
+    "end": 200.0,
+    "text": "If you want to see an example, look at the example of our vector. Suppose A contains all the vectors. Okay? A contains all the vectors. And B is the set that contains all the constants."
+  },
+  {
+    "start": 200.0,
+    "end": 208.0,
+    "text": "Sorry, sorry. It contains all the constants. Or the natural number. The whole number. If I raise one vector. Okay? Raise one element from here."
+  },
+  {
+    "start": 208.0,
+    "end": 221.0,
+    "text": "And I raise one element from the constant. That is, I raised one vector. 2i cap plus 3j cap plus 7k cap. And I raised two from there. And I multiply these two. What is going to come back? What is going to come back?"
+  },
+  {
+    "start": 221.0,
+    "end": 230.0,
+    "text": "That will also be a vector whose magnitude is going to double. That is, where did that set come back? It came between the vector. So this is known as the vector. Sorry, this is known as the external binary operation."
+  },
+  {
+    "start": 230.0,
+    "end": 238.0,
+    "text": "Do you know the basic example? Look, it is obvious. I have A1 set of 10 liquids. I raised one liquid. I raised another liquid. I mixed both the liquids. The answer will come at the end."
+  },
+  {
+    "start": 238.0,
+    "end": 247.0,
+    "text": "The liquidity will come. That means there are 4-5 colors in the water. And one set is shown that all the water colors exist. So I will take any two colors. Mix both the colors. A third color will be present."
+  },
+  {
+    "start": 247.0,
+    "end": 255.0,
+    "text": "Which exists in the world. So it will be from the A set. Where all the colors of the world are obvious. Okay? If I look at this example. How can you understand this in real life? I know what time is equal to."
+  },
+  {
+    "start": 255.0,
+    "end": 265.0,
+    "text": "Distance is by speed. So I will tell you one thing. If I have one set in which there is time. Means all the times are read. All the time quantity is read. And one set in which all the speeds are read. Okay?"
+  },
+  {
+    "start": 265.0,
+    "end": 274.0,
+    "text": "If I picked an element from one time. I picked an element from a speed. I multiplied both. The answer will come to me. Distance. And this operation here. Look carefully."
+  },
+  {
+    "start": 274.0,
+    "end": 282.0,
+    "text": "It is going in a third set. Neither it is an internal binary operation. Neither it is an external binary operation. It is applying its own external operation. Where the output of the third set is coming. The first set in which there is time. There is a different quantity."
+  },
+  {
+    "start": 282.0,
+    "end": 289.0,
+    "text": "The second set in which the speed is different. The second set is a meter per second. Right? Kilometer per hour. So the third set is giving the output of distance. Which is kilometer or centimeter. In which the answer will be given."
+  },
+  {
+    "start": 289.0,
+    "end": 296.0,
+    "text": "So this is also external. But it is working on its own operations. This is non-end. Not as an external binary operation. I hope you are clear. It will be possible. Okay?"
+  },
+  {
+    "start": 296.0,
+    "end": 308.0,
+    "text": "So now let's see a little overview. What is actually happening? Look, it is more important than internal binary operation. Your external binary operation. Because we are talking about linear algebra here. If I say the first step of linear algebra. I read algebra in three parts."
+  },
+  {
+    "start": 308.0,
+    "end": 317.0,
+    "text": "In the first algebra, I say basic algebra. In which the eigenvector and eigenvalues are added. Your characteristic polynomial is added. All this data is here. Then the second algebra comes. Group theory. In which the group rings and fields are discussed."
+  },
+  {
+    "start": 317.0,
+    "end": 324.0,
+    "text": "The third algebra comes. Linear algebra. Okay? Now, if you read it in the same way. If you continue the playlist in the same way. Then you will understand the linear algebra very well. I will tell you very frankly."
+  },
+  {
+    "start": 324.0,
+    "end": 336.0,
+    "text": "This playlist is going to be very long. But we will pick one topic with great love. And we will take the connections from this video. This connection is being made. Now, there is a difference between the two. He says internal binary operation is working on same set. External binary operation works on two sets."
+  },
+  {
+    "start": 336.0,
+    "end": 344.0,
+    "text": "Obviously. The second point. This is going from A to A. And the output is leaving it in A. It is leaving it from A to A. It is leaving it from A to A. But the output is leaving it in the first set."
+  },
+  {
+    "start": 344.0,
+    "end": 351.0,
+    "text": "Third point. Where is the input going from A to A? Where is the input going from A to A? From both. Fourth point. The output is leaving it in A. Closer only in A."
+  },
+  {
+    "start": 351.0,
+    "end": 361.0,
+    "text": "This is a very nice point. It can be a very simple point. Many students have doubts here. Sir, you have said one thing. One element has been raised from A to A. One element has been raised from B to A. And it has been operated."
+  },
+  {
+    "start": 361.0,
+    "end": 373.0,
+    "text": "After operating it, a third element has been raised. It has been understood that if it comes in the first set. Then it is external. But sir, the operation that has been applied. Which is the operation of the algebraic structure? Is it this one or this one? It is the first set."
+  },
+  {
+    "start": 373.0,
+    "end": 384.0,
+    "text": "When it is not leaving its closer property. It is coming back in the first set. Look, it is going to think with great love. If I am saying that the output is coming in the first set. Then the first algebraic structure. If an element is coming in it. Then you will be able to come."
+  },
+  {
+    "start": 384.0,
+    "end": 395.0,
+    "text": "When it is satisfying its binary operation. This means that this binary operation. This binary operation is also the first set. Only one element of B set is being helped. That is why we call it. If I say this. Then it is called."
+  },
+  {
+    "start": 395.0,
+    "end": 405.0,
+    "text": "External binary operation. Okay. On set A. Over B. Do you understand? What it is called? External binary operation."
+  },
+  {
+    "start": 405.0,
+    "end": 412.0,
+    "text": "For whom? For A. Over B. Which means the help is being given. Clear? Now, fifth point. It is called operation defined by A."
+  },
+  {
+    "start": 412.0,
+    "end": 422.0,
+    "text": "The operation is taken by A. Because two elements of A are coming. The operation is always taken by A. So these two are very big points. Many students are wrong. Many students are wrong. One is a writer's book."
+  },
+  {
+    "start": 422.0,
+    "end": 429.0,
+    "text": "I don't remember the exact name. It is written there. Second which means the binary operation in between. Take it from the other set. It is not like that. It is working on the first set. Because it is following the closer property."
+  },
+  {
+    "start": 429.0,
+    "end": 436.0,
+    "text": "Okay. Now sixth. Internal interaction is happening. It is obvious. External interaction is happening. Because the element is being taken from outside. There is no outer element allowed."
+  },
+  {
+    "start": 436.0,
+    "end": 443.0,
+    "text": "It is obvious. There is no outer element allowed. Give an example. If you are doing plus or minus. Any integer or real. It is obvious. It is real."
+  },
+  {
+    "start": 443.0,
+    "end": 454.0,
+    "text": "A scalar quantity and a vector quantity multiply. It comes back. A vector quantity comes back. It is mostly used in internal groups and rings. In group ring and field. And it is mostly used in vector space and modules. What does it mean?"
+  },
+  {
+    "start": 454.0,
+    "end": 461.0,
+    "text": "Where we are going to read the vector space. Where the field is going to be used. So there will be some attachment. Your external binary operation. Where we are going to work. In the entire vector space. So this is the overall difference."
+  },
+  {
+    "start": 461.0,
+    "end": 469.0,
+    "text": "In terms of internal binary operation and external binary operation. I hope you have learned a lot of things. We will meet in the next video. We will learn something new. Have a good day. Bye."
+  }
+]
